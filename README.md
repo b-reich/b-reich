@@ -7,6 +7,10 @@ As an IT-Admin I also get in touch with networks and highly avaible services
 ## 🗺️ Location
 I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just sout of **Hamburg, Germany**.
 
+## 🗣 My activity:
+
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
+
 ---
 ![b-reich github stats](https://github-readme-stats.vercel.app/api?username=b-reich&count_private=true)
 

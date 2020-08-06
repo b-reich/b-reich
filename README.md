@@ -9,6 +9,12 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. ❌ Reopened PR [#6860](https://github.com//syncthing/syncthing/pull/6860) in [syncthing/syncthing](https://github.com//syncthing/syncthing)
+2. ❌ Reopened PR [#6860](https://github.com//syncthing/syncthing/pull/6860) in [syncthing/syncthing](https://github.com//syncthing/syncthing)
+3. ❌ Closed PR [#6860](https://github.com//syncthing/syncthing/pull/6860) in [syncthing/syncthing](https://github.com//syncthing/syncthing)
+4. ❌ Closed PR [#6860](https://github.com//syncthing/syncthing/pull/6860) in [syncthing/syncthing](https://github.com//syncthing/syncthing)
+5. 💪 Opened PR [#6860](https://github.com//syncthing/syncthing/pull/6860) in [syncthing/syncthing](https://github.com//syncthing/syncthing)
+<!--END_SECTION:activity-->
 
 
 ---

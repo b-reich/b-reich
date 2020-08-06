@@ -10,7 +10,6 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 ---
 ![b-reich github stats](https://github-readme-stats.vercel.app/api?username=b-reich&count_private=true)

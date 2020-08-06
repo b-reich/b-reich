@@ -1,11 +1,16 @@
 ### Hi there 👋
 
-## I'm a Student, Developer, IT-Admin!
+### I'm a Student, Developer, IT-Admin!
 I'm a 23 year old computer scientist student. My focus is programming for embedded system.
 As an IT-Admin I also get in touch with networks and highly avaible services
 
-## 🗺️ Location
+### 🗺️ Location
 I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just sout of **Hamburg, Germany**.
+
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ---
 ![b-reich github stats](https://github-readme-stats.vercel.app/api?username=b-reich&count_private=true)

@@ -10,10 +10,10 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1379](https://github.com//munkireport/munkireport-php/issues/1379) in [munkireport/munkireport-php](https://github.com//munkireport/munkireport-php)
-2. ❌ Reopened PR [#6860](https://github.com//syncthing/syncthing/pull/6860) in [syncthing/syncthing](https://github.com//syncthing/syncthing)
+1. 🗣 Commented on [#157](https://github.com//neuralfraud/grafana-prtg/issues/157) in [neuralfraud/grafana-prtg](https://github.com//neuralfraud/grafana-prtg)
+2. ❗️ Opened issue [#1379](https://github.com//munkireport/munkireport-php/issues/1379) in [munkireport/munkireport-php](https://github.com//munkireport/munkireport-php)
 3. ❌ Reopened PR [#6860](https://github.com//syncthing/syncthing/pull/6860) in [syncthing/syncthing](https://github.com//syncthing/syncthing)
-4. ❌ Closed PR [#6860](https://github.com//syncthing/syncthing/pull/6860) in [syncthing/syncthing](https://github.com//syncthing/syncthing)
+4. ❌ Reopened PR [#6860](https://github.com//syncthing/syncthing/pull/6860) in [syncthing/syncthing](https://github.com//syncthing/syncthing)
 5. ❌ Closed PR [#6860](https://github.com//syncthing/syncthing/pull/6860) in [syncthing/syncthing](https://github.com//syncthing/syncthing)
 <!--END_SECTION:activity-->
 

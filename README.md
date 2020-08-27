@@ -6,7 +6,7 @@ I'm a 24 year old computer scientist student. My focus is programming for embedd
 As an IT-Admin I also get in touch with networks and highly avaible services
 
 ### 🗺️ Location
-I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just sout of **Hamburg, Germany**.
+I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just south of **Hamburg, Germany**.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->

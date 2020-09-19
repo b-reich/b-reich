@@ -10,11 +10,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4405](https://github.com//Koenkk/zigbee2mqtt/issues/4405) in [Koenkk/zigbee2mqtt](https://github.com//Koenkk/zigbee2mqtt)
-2. ❗️ Opened issue [#4405](https://github.com//Koenkk/zigbee2mqtt/issues/4405) in [Koenkk/zigbee2mqtt](https://github.com//Koenkk/zigbee2mqtt)
-3. 🗣 Commented on [#782](https://github.com//Koenkk/zigbee2mqtt/issues/782) in [Koenkk/zigbee2mqtt](https://github.com//Koenkk/zigbee2mqtt)
-4. 🗣 Commented on [#171](https://github.com//neuralfraud/grafana-prtg/issues/171) in [neuralfraud/grafana-prtg](https://github.com//neuralfraud/grafana-prtg)
-5. 🗣 Commented on [#168](https://github.com//neuralfraud/grafana-prtg/issues/168) in [neuralfraud/grafana-prtg](https://github.com//neuralfraud/grafana-prtg)
+1. ❗️ Closed issue [#4405](https://github.com//Koenkk/zigbee2mqtt/issues/4405) in [Koenkk/zigbee2mqtt](https://github.com//Koenkk/zigbee2mqtt)
+2. 🗣 Commented on [#4405](https://github.com//Koenkk/zigbee2mqtt/issues/4405) in [Koenkk/zigbee2mqtt](https://github.com//Koenkk/zigbee2mqtt)
+3. 🗣 Commented on [#4405](https://github.com//Koenkk/zigbee2mqtt/issues/4405) in [Koenkk/zigbee2mqtt](https://github.com//Koenkk/zigbee2mqtt)
+4. ❗️ Opened issue [#4405](https://github.com//Koenkk/zigbee2mqtt/issues/4405) in [Koenkk/zigbee2mqtt](https://github.com//Koenkk/zigbee2mqtt)
+5. 🗣 Commented on [#782](https://github.com//Koenkk/zigbee2mqtt/issues/782) in [Koenkk/zigbee2mqtt](https://github.com//Koenkk/zigbee2mqtt)
 <!--END_SECTION:activity-->
 
 ### Skills

@@ -10,11 +10,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5225](https://github.com/lukesampson/scoop-extras/issues/5225) in [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras)
-2. ❗️ Closed issue [#143](https://github.com/fkie/multimaster_fkie/issues/143) in [fkie/multimaster_fkie](https://github.com/fkie/multimaster_fkie)
-3. ❗️ Opened issue [#143](https://github.com/fkie/multimaster_fkie/issues/143) in [fkie/multimaster_fkie](https://github.com/fkie/multimaster_fkie)
-4. ❗️ Opened issue [#5148](https://github.com/lukesampson/scoop-extras/issues/5148) in [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras)
-5. 💪 Opened PR [#38](https://github.com/hispanico/ansible-nginx-revproxy/pull/38) in [hispanico/ansible-nginx-revproxy](https://github.com/hispanico/ansible-nginx-revproxy)
+1. ❗️ Opened issue [#5172](https://github.com/Koenkk/zigbee2mqtt/issues/5172) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+2. ❗️ Opened issue [#5225](https://github.com/lukesampson/scoop-extras/issues/5225) in [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras)
+3. ❗️ Closed issue [#143](https://github.com/fkie/multimaster_fkie/issues/143) in [fkie/multimaster_fkie](https://github.com/fkie/multimaster_fkie)
+4. ❗️ Opened issue [#143](https://github.com/fkie/multimaster_fkie/issues/143) in [fkie/multimaster_fkie](https://github.com/fkie/multimaster_fkie)
+5. ❗️ Opened issue [#5148](https://github.com/lukesampson/scoop-extras/issues/5148) in [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras)
 <!--END_SECTION:activity-->
 
 ### Skills

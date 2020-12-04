@@ -10,11 +10,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5172](https://github.com/Koenkk/zigbee2mqtt/issues/5172) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-2. 🗣 Commented on [#4559](https://github.com/Koenkk/zigbee2mqtt/issues/4559) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+1. ❗️ Closed issue [#5172](https://github.com/Koenkk/zigbee2mqtt/issues/5172) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+2. 🗣 Commented on [#5172](https://github.com/Koenkk/zigbee2mqtt/issues/5172) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
 3. 🗣 Commented on [#5172](https://github.com/Koenkk/zigbee2mqtt/issues/5172) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-4. ❗️ Opened issue [#5172](https://github.com/Koenkk/zigbee2mqtt/issues/5172) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-5. ❗️ Opened issue [#5225](https://github.com/lukesampson/scoop-extras/issues/5225) in [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras)
+4. 🗣 Commented on [#4559](https://github.com/Koenkk/zigbee2mqtt/issues/4559) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+5. 🗣 Commented on [#5172](https://github.com/Koenkk/zigbee2mqtt/issues/5172) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
 <!--END_SECTION:activity-->
 
 ### Skills

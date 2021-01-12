@@ -10,11 +10,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/PufferPanel/dockerfiles/issues/4) in [PufferPanel/dockerfiles](https://github.com/PufferPanel/dockerfiles)
-2. ❗️ Opened issue [#1](https://github.com/PufferPanel/pufferd-images/issues/1) in [PufferPanel/pufferd-images](https://github.com/PufferPanel/pufferd-images)
-3. ❗️ Opened issue [#977](https://github.com/PufferPanel/PufferPanel/issues/977) in [PufferPanel/PufferPanel](https://github.com/PufferPanel/PufferPanel)
-4. 🗣 Commented on [#206](https://github.com/hugo-toha/toha/issues/206) in [hugo-toha/toha](https://github.com/hugo-toha/toha)
-5. ❗️ Opened issue [#206](https://github.com/hugo-toha/toha/issues/206) in [hugo-toha/toha](https://github.com/hugo-toha/toha)
+1. ❗️ Opened issue [#510](https://github.com/luizdepra/hugo-coder/issues/510) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
+2. ❗️ Opened issue [#4](https://github.com/PufferPanel/dockerfiles/issues/4) in [PufferPanel/dockerfiles](https://github.com/PufferPanel/dockerfiles)
+3. ❗️ Opened issue [#1](https://github.com/PufferPanel/pufferd-images/issues/1) in [PufferPanel/pufferd-images](https://github.com/PufferPanel/pufferd-images)
+4. ❗️ Opened issue [#977](https://github.com/PufferPanel/PufferPanel/issues/977) in [PufferPanel/PufferPanel](https://github.com/PufferPanel/PufferPanel)
+5. 🗣 Commented on [#206](https://github.com/hugo-toha/toha/issues/206) in [hugo-toha/toha](https://github.com/hugo-toha/toha)
 <!--END_SECTION:activity-->
 <!---
 ### Skills

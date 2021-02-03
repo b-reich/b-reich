@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=b-reich" alt="b-reich" />
+<img src="https://komarev.com/ghpvc/?username=b-reich&style=flat-square" alt="b-reich" />
 
 ### I'm a Student, Developer, IT-Admin!
 I'm a 24 year old computer scientist student. My focus is programming for embedded system.

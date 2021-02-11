@@ -10,11 +10,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#50](https://github.com/ansible-collections/hetzner.hcloud/issues/50) in [ansible-collections/hetzner.hcloud](https://github.com/ansible-collections/hetzner.hcloud)
-2. ❗️ Opened issue [#32](https://github.com/peter-evans/dockerhub-description/issues/32) in [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description)
-3. 🎉 Merged PR [#1](https://github.com/b-reich/latex-docker/pull/1) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
-4. 💪 Opened PR [#1](https://github.com/b-reich/latex-docker/pull/1) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
-5. ❗️ Opened issue [#510](https://github.com/luizdepra/hugo-coder/issues/510) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
+1. ❗️ Opened issue [#879](https://github.com/hedgedoc/hedgedoc/issues/879) in [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)
+2. ❗️ Opened issue [#50](https://github.com/ansible-collections/hetzner.hcloud/issues/50) in [ansible-collections/hetzner.hcloud](https://github.com/ansible-collections/hetzner.hcloud)
+3. ❗️ Opened issue [#32](https://github.com/peter-evans/dockerhub-description/issues/32) in [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description)
+4. 🎉 Merged PR [#1](https://github.com/b-reich/latex-docker/pull/1) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
+5. 💪 Opened PR [#1](https://github.com/b-reich/latex-docker/pull/1) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
 <!--END_SECTION:activity-->
 <!---
 ### Skills

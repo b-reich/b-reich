@@ -10,11 +10,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5328](https://github.com/lukesampson/scoop-extras/issues/5328) in [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras)
-2. ❗️ Opened issue [#879](https://github.com/hedgedoc/hedgedoc/issues/879) in [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)
-3. ❗️ Opened issue [#50](https://github.com/ansible-collections/hetzner.hcloud/issues/50) in [ansible-collections/hetzner.hcloud](https://github.com/ansible-collections/hetzner.hcloud)
-4. ❗️ Opened issue [#32](https://github.com/peter-evans/dockerhub-description/issues/32) in [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description)
-5. 🎉 Merged PR [#1](https://github.com/b-reich/latex-docker/pull/1) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
+1. 🗣 Commented on [#879](https://github.com/hedgedoc/hedgedoc/issues/879) in [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)
+2. 🗣 Commented on [#5328](https://github.com/lukesampson/scoop-extras/issues/5328) in [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras)
+3. ❗️ Opened issue [#879](https://github.com/hedgedoc/hedgedoc/issues/879) in [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)
+4. ❗️ Opened issue [#50](https://github.com/ansible-collections/hetzner.hcloud/issues/50) in [ansible-collections/hetzner.hcloud](https://github.com/ansible-collections/hetzner.hcloud)
+5. ❗️ Opened issue [#32](https://github.com/peter-evans/dockerhub-description/issues/32) in [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description)
 <!--END_SECTION:activity-->
 <!---
 ### Skills

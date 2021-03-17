@@ -10,11 +10,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#1403](https://github.com/munkireport/munkireport-php/issues/1403) in [munkireport/munkireport-php](https://github.com/munkireport/munkireport-php)
-2. ❗️ Closed issue [#1403](https://github.com/munkireport/munkireport-php/issues/1403) in [munkireport/munkireport-php](https://github.com/munkireport/munkireport-php)
-3. 🗣 Commented on [#1403](https://github.com/munkireport/munkireport-php/issues/1403) in [munkireport/munkireport-php](https://github.com/munkireport/munkireport-php)
+1. 🗣 Commented on [#1403](https://github.com/munkireport/munkireport-php/issues/1403) in [munkireport/munkireport-php](https://github.com/munkireport/munkireport-php)
+2. ❗️ Reopened issue [#1403](https://github.com/munkireport/munkireport-php/issues/1403) in [munkireport/munkireport-php](https://github.com/munkireport/munkireport-php)
+3. ❗️ Closed issue [#1403](https://github.com/munkireport/munkireport-php/issues/1403) in [munkireport/munkireport-php](https://github.com/munkireport/munkireport-php)
 4. 🗣 Commented on [#1403](https://github.com/munkireport/munkireport-php/issues/1403) in [munkireport/munkireport-php](https://github.com/munkireport/munkireport-php)
-5. ❗️ Opened issue [#1403](https://github.com/munkireport/munkireport-php/issues/1403) in [munkireport/munkireport-php](https://github.com/munkireport/munkireport-php)
+5. 🗣 Commented on [#1403](https://github.com/munkireport/munkireport-php/issues/1403) in [munkireport/munkireport-php](https://github.com/munkireport/munkireport-php)
 <!--END_SECTION:activity-->
 <!---
 ### Skills

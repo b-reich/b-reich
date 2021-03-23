@@ -10,10 +10,10 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1403](https://github.com/munkireport/munkireport-php/issues/1403) in [munkireport/munkireport-php](https://github.com/munkireport/munkireport-php)
-2. 🗣 Commented on [#49](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card/issues/49) in [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card)
-3. 🗣 Commented on [#1403](https://github.com/munkireport/munkireport-php/issues/1403) in [munkireport/munkireport-php](https://github.com/munkireport/munkireport-php)
-4. 💪 Opened PR [#1404](https://github.com/munkireport/munkireport-php/pull/1404) in [munkireport/munkireport-php](https://github.com/munkireport/munkireport-php)
+1. 🗣 Commented on [#879](https://github.com/hedgedoc/hedgedoc/issues/879) in [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)
+2. 🗣 Commented on [#879](https://github.com/hedgedoc/hedgedoc/issues/879) in [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)
+3. ❗️ Closed issue [#1403](https://github.com/munkireport/munkireport-php/issues/1403) in [munkireport/munkireport-php](https://github.com/munkireport/munkireport-php)
+4. 🗣 Commented on [#49](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card/issues/49) in [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card)
 5. 🗣 Commented on [#1403](https://github.com/munkireport/munkireport-php/issues/1403) in [munkireport/munkireport-php](https://github.com/munkireport/munkireport-php)
 <!--END_SECTION:activity-->
 <!---

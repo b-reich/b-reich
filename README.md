@@ -10,11 +10,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/linuxserver/docker-netbootxyz/issues/30) in [linuxserver/docker-netbootxyz](https://github.com/linuxserver/docker-netbootxyz)
-2. 🗣 Commented on [#1402](https://github.com/micheleg/dash-to-dock/issues/1402) in [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock)
-3. 🗣 Commented on [#206](https://github.com/hugo-toha/toha/issues/206) in [hugo-toha/toha](https://github.com/hugo-toha/toha)
-4. 🗣 Commented on [#1402](https://github.com/micheleg/dash-to-dock/issues/1402) in [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock)
-5. 💪 Opened PR [#313](https://github.com/linuxserver/Heimdall-Apps/pull/313) in [linuxserver/Heimdall-Apps](https://github.com/linuxserver/Heimdall-Apps)
+1. ❗️ Opened issue [#77](https://github.com/vinceliuice/Orchis-theme/issues/77) in [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme)
+2. 🗣 Commented on [#30](https://github.com/linuxserver/docker-netbootxyz/issues/30) in [linuxserver/docker-netbootxyz](https://github.com/linuxserver/docker-netbootxyz)
+3. 🗣 Commented on [#1402](https://github.com/micheleg/dash-to-dock/issues/1402) in [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock)
+4. 🗣 Commented on [#206](https://github.com/hugo-toha/toha/issues/206) in [hugo-toha/toha](https://github.com/hugo-toha/toha)
+5. 🗣 Commented on [#1402](https://github.com/micheleg/dash-to-dock/issues/1402) in [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock)
 <!--END_SECTION:activity-->
 <!---
 ### Skills

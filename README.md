@@ -10,10 +10,10 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#77](https://github.com/vinceliuice/Orchis-theme/issues/77) in [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme)
-2. 🗣 Commented on [#30](https://github.com/linuxserver/docker-netbootxyz/issues/30) in [linuxserver/docker-netbootxyz](https://github.com/linuxserver/docker-netbootxyz)
-3. 🗣 Commented on [#1402](https://github.com/micheleg/dash-to-dock/issues/1402) in [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock)
-4. 🗣 Commented on [#206](https://github.com/hugo-toha/toha/issues/206) in [hugo-toha/toha](https://github.com/hugo-toha/toha)
+1. ❗️ Closed issue [#77](https://github.com/vinceliuice/Orchis-theme/issues/77) in [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme)
+2. 🗣 Commented on [#77](https://github.com/vinceliuice/Orchis-theme/issues/77) in [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme)
+3. ❗️ Opened issue [#77](https://github.com/vinceliuice/Orchis-theme/issues/77) in [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme)
+4. 🗣 Commented on [#30](https://github.com/linuxserver/docker-netbootxyz/issues/30) in [linuxserver/docker-netbootxyz](https://github.com/linuxserver/docker-netbootxyz)
 5. 🗣 Commented on [#1402](https://github.com/micheleg/dash-to-dock/issues/1402) in [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock)
 <!--END_SECTION:activity-->
 <!---

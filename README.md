@@ -11,10 +11,10 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12](https://github.com/mwarning/meshnet-lab/issues/12) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
-2. ❗️ Opened issue [#909](https://github.com/Hypfer/Valetudo/issues/909) in [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo)
-3. ❗️ Closed issue [#82](https://github.com/vinceliuice/Orchis-theme/issues/82) in [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme)
-4. 🗣 Commented on [#82](https://github.com/vinceliuice/Orchis-theme/issues/82) in [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme)
-5. 💪 Opened PR [#14](https://github.com/mwarning/meshnet-lab/pull/14) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
+2. 🗣 Commented on [#12](https://github.com/mwarning/meshnet-lab/issues/12) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
+3. ❗️ Opened issue [#909](https://github.com/Hypfer/Valetudo/issues/909) in [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo)
+4. ❗️ Closed issue [#82](https://github.com/vinceliuice/Orchis-theme/issues/82) in [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme)
+5. 🗣 Commented on [#82](https://github.com/vinceliuice/Orchis-theme/issues/82) in [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme)
 <!--END_SECTION:activity-->
 <!---
 ### Skills

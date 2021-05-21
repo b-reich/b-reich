@@ -10,11 +10,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/mwarning/meshnet-lab/issues/12) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
+1. 🎉 Merged PR [#2](https://github.com/b-reich/latex-docker/pull/2) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
 2. 🗣 Commented on [#12](https://github.com/mwarning/meshnet-lab/issues/12) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
-3. ❗️ Opened issue [#909](https://github.com/Hypfer/Valetudo/issues/909) in [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo)
-4. ❗️ Closed issue [#82](https://github.com/vinceliuice/Orchis-theme/issues/82) in [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme)
-5. 🗣 Commented on [#82](https://github.com/vinceliuice/Orchis-theme/issues/82) in [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme)
+3. 🗣 Commented on [#12](https://github.com/mwarning/meshnet-lab/issues/12) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
+4. ❗️ Opened issue [#909](https://github.com/Hypfer/Valetudo/issues/909) in [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo)
+5. ❗️ Closed issue [#82](https://github.com/vinceliuice/Orchis-theme/issues/82) in [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme)
 <!--END_SECTION:activity-->
 <!---
 ### Skills

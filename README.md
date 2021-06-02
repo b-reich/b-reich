@@ -12,8 +12,8 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12](https://github.com/mwarning/meshnet-lab/issues/12) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
 2. 🗣 Commented on [#12](https://github.com/mwarning/meshnet-lab/issues/12) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
-3. 🎉 Merged PR [#2](https://github.com/b-reich/latex-docker/pull/2) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
-4. 🗣 Commented on [#12](https://github.com/mwarning/meshnet-lab/issues/12) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
+3. 🗣 Commented on [#12](https://github.com/mwarning/meshnet-lab/issues/12) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
+4. 🎉 Merged PR [#2](https://github.com/b-reich/latex-docker/pull/2) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
 5. 🗣 Commented on [#12](https://github.com/mwarning/meshnet-lab/issues/12) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
 <!--END_SECTION:activity-->
 <!---

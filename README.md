@@ -10,6 +10,8 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### 📰 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Edgerouter IPv6](https://benjaminreich.de/posts/configure-ipv6-on-a-edgerouter/)
+- [About me](https://benjaminreich.de/about/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :zap: Recent Activity

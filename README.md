@@ -8,6 +8,10 @@ As an IT-Admin I also get in touch with networks and highly avaible services
 ### 🗺️ Location
 I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just south of **Hamburg, Germany**.
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12](https://github.com/mwarning/meshnet-lab/issues/12) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)

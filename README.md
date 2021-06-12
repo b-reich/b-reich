@@ -16,11 +16,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/mwarning/meshnet-lab/issues/16) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
-2. 🎉 Merged PR [#1](https://github.com/b-reich/impfbot/pull/1) in [b-reich/impfbot](https://github.com/b-reich/impfbot)
-3. 💪 Opened PR [#1](https://github.com/b-reich/impfbot/pull/1) in [b-reich/impfbot](https://github.com/b-reich/impfbot)
-4. 🗣 Commented on [#76](https://github.com/sibalzer/impfbot/issues/76) in [sibalzer/impfbot](https://github.com/sibalzer/impfbot)
-5. 🗣 Commented on [#77](https://github.com/sibalzer/impfbot/issues/77) in [sibalzer/impfbot](https://github.com/sibalzer/impfbot)
+1. ❗️ Opened issue [#6336](https://github.com/lukesampson/scoop-extras/issues/6336) in [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras)
+2. ❗️ Opened issue [#16](https://github.com/mwarning/meshnet-lab/issues/16) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
+3. 🎉 Merged PR [#1](https://github.com/b-reich/impfbot/pull/1) in [b-reich/impfbot](https://github.com/b-reich/impfbot)
+4. 💪 Opened PR [#1](https://github.com/b-reich/impfbot/pull/1) in [b-reich/impfbot](https://github.com/b-reich/impfbot)
+5. 🗣 Commented on [#76](https://github.com/sibalzer/impfbot/issues/76) in [sibalzer/impfbot](https://github.com/sibalzer/impfbot)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

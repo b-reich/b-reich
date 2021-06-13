@@ -16,11 +16,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6336](https://github.com/lukesampson/scoop-extras/issues/6336) in [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras)
-2. 🗣 Commented on [#6336](https://github.com/lukesampson/scoop-extras/issues/6336) in [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras)
-3. ❗️ Opened issue [#6336](https://github.com/lukesampson/scoop-extras/issues/6336) in [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras)
-4. ❗️ Opened issue [#16](https://github.com/mwarning/meshnet-lab/issues/16) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
-5. 🎉 Merged PR [#1](https://github.com/b-reich/impfbot/pull/1) in [b-reich/impfbot](https://github.com/b-reich/impfbot)
+1. 🗣 Commented on [#16](https://github.com/mwarning/meshnet-lab/issues/16) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
+2. ❗️ Closed issue [#16](https://github.com/mwarning/meshnet-lab/issues/16) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
+3. ❗️ Closed issue [#6336](https://github.com/lukesampson/scoop-extras/issues/6336) in [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras)
+4. 🗣 Commented on [#6336](https://github.com/lukesampson/scoop-extras/issues/6336) in [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras)
+5. ❗️ Opened issue [#6336](https://github.com/lukesampson/scoop-extras/issues/6336) in [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

@@ -19,9 +19,9 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#265](https://github.com/EVNotify/EVNotify/issues/265) in [EVNotify/EVNotify](https://github.com/EVNotify/EVNotify)
 2. 🗣 Commented on [#265](https://github.com/EVNotify/EVNotify/issues/265) in [EVNotify/EVNotify](https://github.com/EVNotify/EVNotify)
-3. 🗣 Commented on [#2](https://github.com/angristan/ansible-caddy/issues/2) in [angristan/ansible-caddy](https://github.com/angristan/ansible-caddy)
-4. ❗️ Opened issue [#52](https://github.com/hispanico/ansible-nginx-revproxy/issues/52) in [hispanico/ansible-nginx-revproxy](https://github.com/hispanico/ansible-nginx-revproxy)
-5. 🗣 Commented on [#159](https://github.com/EVNotify/EVNotify/issues/159) in [EVNotify/EVNotify](https://github.com/EVNotify/EVNotify)
+3. 🗣 Commented on [#265](https://github.com/EVNotify/EVNotify/issues/265) in [EVNotify/EVNotify](https://github.com/EVNotify/EVNotify)
+4. 🗣 Commented on [#2](https://github.com/angristan/ansible-caddy/issues/2) in [angristan/ansible-caddy](https://github.com/angristan/ansible-caddy)
+5. ❗️ Opened issue [#52](https://github.com/hispanico/ansible-nginx-revproxy/issues/52) in [hispanico/ansible-nginx-revproxy](https://github.com/hispanico/ansible-nginx-revproxy)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

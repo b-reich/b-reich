@@ -17,11 +17,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#265](https://github.com/EVNotify/EVNotify/issues/265) in [EVNotify/EVNotify](https://github.com/EVNotify/EVNotify)
-2. 🗣 Commented on [#265](https://github.com/EVNotify/EVNotify/issues/265) in [EVNotify/EVNotify](https://github.com/EVNotify/EVNotify)
-3. 🗣 Commented on [#265](https://github.com/EVNotify/EVNotify/issues/265) in [EVNotify/EVNotify](https://github.com/EVNotify/EVNotify)
-4. 🗣 Commented on [#2](https://github.com/angristan/ansible-caddy/issues/2) in [angristan/ansible-caddy](https://github.com/angristan/ansible-caddy)
-5. ❗️ Opened issue [#52](https://github.com/hispanico/ansible-nginx-revproxy/issues/52) in [hispanico/ansible-nginx-revproxy](https://github.com/hispanico/ansible-nginx-revproxy)
+1. ❌ Closed PR [#12](https://github.com/mwarning/meshnet-lab/pull/12) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
+2. 🗣 Commented on [#12](https://github.com/mwarning/meshnet-lab/issues/12) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
+3. 🗣 Commented on [#21](https://github.com/mwarning/meshnet-lab/issues/21) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
+4. 💪 Opened PR [#2714](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/2714) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+5. ❗️ Opened issue [#21](https://github.com/mwarning/meshnet-lab/issues/21) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

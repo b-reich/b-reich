@@ -17,11 +17,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/mwarning/meshnet-lab/pull/12) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
-2. 🗣 Commented on [#12](https://github.com/mwarning/meshnet-lab/issues/12) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
-3. 🗣 Commented on [#21](https://github.com/mwarning/meshnet-lab/issues/21) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
-4. 💪 Opened PR [#2714](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/2714) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-5. ❗️ Opened issue [#21](https://github.com/mwarning/meshnet-lab/issues/21) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
+1. 🎉 Merged PR [#1](https://github.com/b-reich/dotfiles/pull/1) in [b-reich/dotfiles](https://github.com/b-reich/dotfiles)
+2. 💪 Opened PR [#11](https://github.com/EdJoPaTo/hawhh.de/pull/11) in [EdJoPaTo/hawhh.de](https://github.com/EdJoPaTo/hawhh.de)
+3. 💪 Opened PR [#10](https://github.com/EdJoPaTo/hawhh.de/pull/10) in [EdJoPaTo/hawhh.de](https://github.com/EdJoPaTo/hawhh.de)
+4. 💪 Opened PR [#9](https://github.com/EdJoPaTo/hawhh.de/pull/9) in [EdJoPaTo/hawhh.de](https://github.com/EdJoPaTo/hawhh.de)
+5. 💪 Opened PR [#22](https://github.com/mwarning/meshnet-lab/pull/22) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

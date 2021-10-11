@@ -17,11 +17,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2714](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/2714) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-2. 🎉 Merged PR [#4](https://github.com/b-reich/latex-docker/pull/4) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
-3. 🎉 Merged PR [#3](https://github.com/b-reich/latex-docker/pull/3) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
-4. 💪 Opened PR [#12](https://github.com/EdJoPaTo/hawhh.de/pull/12) in [EdJoPaTo/hawhh.de](https://github.com/EdJoPaTo/hawhh.de)
-5. 🎉 Merged PR [#1](https://github.com/b-reich/dotfiles/pull/1) in [b-reich/dotfiles](https://github.com/b-reich/dotfiles)
+1. 🗣 Commented on [#265](https://github.com/EVNotify/EVNotify/issues/265) in [EVNotify/EVNotify](https://github.com/EVNotify/EVNotify)
+2. 🗣 Commented on [#2714](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/2714) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+3. 🎉 Merged PR [#4](https://github.com/b-reich/latex-docker/pull/4) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
+4. 🎉 Merged PR [#3](https://github.com/b-reich/latex-docker/pull/3) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
+5. 💪 Opened PR [#12](https://github.com/EdJoPaTo/hawhh.de/pull/12) in [EdJoPaTo/hawhh.de](https://github.com/EdJoPaTo/hawhh.de)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

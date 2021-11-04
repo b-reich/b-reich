@@ -17,11 +17,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7235](https://github.com/ScoopInstaller/Extras/issues/7235) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-2. 🗣 Commented on [#12](https://github.com/wget/chocolatey-package-openvpn/issues/12) in [wget/chocolatey-package-openvpn](https://github.com/wget/chocolatey-package-openvpn)
-3. 🗣 Commented on [#19](https://github.com/c0sco/ansible-modules-bitwarden/issues/19) in [c0sco/ansible-modules-bitwarden](https://github.com/c0sco/ansible-modules-bitwarden)
-4. ❗️ Opened issue [#711](https://github.com/louislam/uptime-kuma/issues/711) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-5. 🗣 Commented on [#265](https://github.com/EVNotify/EVNotify/issues/265) in [EVNotify/EVNotify](https://github.com/EVNotify/EVNotify)
+1. 🗣 Commented on [#7235](https://github.com/ScoopInstaller/Extras/issues/7235) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+2. ❗️ Opened issue [#7235](https://github.com/ScoopInstaller/Extras/issues/7235) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+3. 🗣 Commented on [#12](https://github.com/wget/chocolatey-package-openvpn/issues/12) in [wget/chocolatey-package-openvpn](https://github.com/wget/chocolatey-package-openvpn)
+4. 🗣 Commented on [#19](https://github.com/c0sco/ansible-modules-bitwarden/issues/19) in [c0sco/ansible-modules-bitwarden](https://github.com/c0sco/ansible-modules-bitwarden)
+5. ❗️ Opened issue [#711](https://github.com/louislam/uptime-kuma/issues/711) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

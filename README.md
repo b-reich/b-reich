@@ -17,11 +17,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7235](https://github.com/ScoopInstaller/Extras/issues/7235) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-2. ❗️ Opened issue [#7235](https://github.com/ScoopInstaller/Extras/issues/7235) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-3. 🗣 Commented on [#12](https://github.com/wget/chocolatey-package-openvpn/issues/12) in [wget/chocolatey-package-openvpn](https://github.com/wget/chocolatey-package-openvpn)
-4. 🗣 Commented on [#19](https://github.com/c0sco/ansible-modules-bitwarden/issues/19) in [c0sco/ansible-modules-bitwarden](https://github.com/c0sco/ansible-modules-bitwarden)
-5. ❗️ Opened issue [#711](https://github.com/louislam/uptime-kuma/issues/711) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+1. 💪 Opened PR [#36](https://github.com/caddy-ansible/caddy-ansible/pull/36) in [caddy-ansible/caddy-ansible](https://github.com/caddy-ansible/caddy-ansible)
+2. 🗣 Commented on [#35](https://github.com/caddy-ansible/caddy-ansible/issues/35) in [caddy-ansible/caddy-ansible](https://github.com/caddy-ansible/caddy-ansible)
+3. ❗️ Opened issue [#35](https://github.com/caddy-ansible/caddy-ansible/issues/35) in [caddy-ansible/caddy-ansible](https://github.com/caddy-ansible/caddy-ansible)
+4. 🗣 Commented on [#7235](https://github.com/ScoopInstaller/Extras/issues/7235) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+5. ❗️ Opened issue [#7235](https://github.com/ScoopInstaller/Extras/issues/7235) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

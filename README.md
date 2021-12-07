@@ -17,11 +17,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2294](https://github.com/hacs/integration/issues/2294) in [hacs/integration](https://github.com/hacs/integration)
-2. 💪 Opened PR [#36](https://github.com/caddy-ansible/caddy-ansible/pull/36) in [caddy-ansible/caddy-ansible](https://github.com/caddy-ansible/caddy-ansible)
-3. 🗣 Commented on [#35](https://github.com/caddy-ansible/caddy-ansible/issues/35) in [caddy-ansible/caddy-ansible](https://github.com/caddy-ansible/caddy-ansible)
-4. ❗️ Opened issue [#35](https://github.com/caddy-ansible/caddy-ansible/issues/35) in [caddy-ansible/caddy-ansible](https://github.com/caddy-ansible/caddy-ansible)
-5. 🗣 Commented on [#7235](https://github.com/ScoopInstaller/Extras/issues/7235) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+1. 💪 Opened PR [#14](https://github.com/HAWHHCalendarBot/AdditionalEvents/pull/14) in [HAWHHCalendarBot/AdditionalEvents](https://github.com/HAWHHCalendarBot/AdditionalEvents)
+2. 🗣 Commented on [#2294](https://github.com/hacs/integration/issues/2294) in [hacs/integration](https://github.com/hacs/integration)
+3. 💪 Opened PR [#36](https://github.com/caddy-ansible/caddy-ansible/pull/36) in [caddy-ansible/caddy-ansible](https://github.com/caddy-ansible/caddy-ansible)
+4. 🗣 Commented on [#35](https://github.com/caddy-ansible/caddy-ansible/issues/35) in [caddy-ansible/caddy-ansible](https://github.com/caddy-ansible/caddy-ansible)
+5. ❗️ Opened issue [#35](https://github.com/caddy-ansible/caddy-ansible/issues/35) in [caddy-ansible/caddy-ansible](https://github.com/caddy-ansible/caddy-ansible)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

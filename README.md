@@ -17,11 +17,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/caddy-ansible/caddy-ansible/issues/36) in [caddy-ansible/caddy-ansible](https://github.com/caddy-ansible/caddy-ansible)
-2. 🗣 Commented on [#9](https://github.com/raspberrypi/rpi-imager/issues/9) in [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager)
-3. 💪 Opened PR [#25](https://github.com/michaellass/AUR/pull/25) in [michaellass/AUR](https://github.com/michaellass/AUR)
-4. 💪 Opened PR [#14](https://github.com/HAWHHCalendarBot/AdditionalEvents/pull/14) in [HAWHHCalendarBot/AdditionalEvents](https://github.com/HAWHHCalendarBot/AdditionalEvents)
-5. 🗣 Commented on [#2294](https://github.com/hacs/integration/issues/2294) in [hacs/integration](https://github.com/hacs/integration)
+1. ❗️ Opened issue [#2](https://github.com/bacherd/MMM-UniFi-Voucher/issues/2) in [bacherd/MMM-UniFi-Voucher](https://github.com/bacherd/MMM-UniFi-Voucher)
+2. 🗣 Commented on [#32](https://github.com/jclarke0000/MMM-DarkSkyForecast/issues/32) in [jclarke0000/MMM-DarkSkyForecast](https://github.com/jclarke0000/MMM-DarkSkyForecast)
+3. 🗣 Commented on [#36](https://github.com/caddy-ansible/caddy-ansible/issues/36) in [caddy-ansible/caddy-ansible](https://github.com/caddy-ansible/caddy-ansible)
+4. 🗣 Commented on [#9](https://github.com/raspberrypi/rpi-imager/issues/9) in [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager)
+5. 💪 Opened PR [#25](https://github.com/michaellass/AUR/pull/25) in [michaellass/AUR](https://github.com/michaellass/AUR)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

@@ -20,8 +20,8 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 1. 🗣 Commented on [#25](https://github.com/mwarning/meshnet-lab/issues/25) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
 2. 🗣 Commented on [#25](https://github.com/mwarning/meshnet-lab/issues/25) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
 3. 🗣 Commented on [#25](https://github.com/mwarning/meshnet-lab/issues/25) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
-4. ❗️ Opened issue [#25](https://github.com/mwarning/meshnet-lab/issues/25) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
-5. 🗣 Commented on [#2](https://github.com/bacherd/MMM-UniFi-Voucher/issues/2) in [bacherd/MMM-UniFi-Voucher](https://github.com/bacherd/MMM-UniFi-Voucher)
+4. 🗣 Commented on [#25](https://github.com/mwarning/meshnet-lab/issues/25) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
+5. ❗️ Opened issue [#25](https://github.com/mwarning/meshnet-lab/issues/25) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

@@ -21,7 +21,7 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 2. 🗣 Commented on [#25](https://github.com/mwarning/meshnet-lab/issues/25) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
 3. 🗣 Commented on [#25](https://github.com/mwarning/meshnet-lab/issues/25) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
 4. 🗣 Commented on [#25](https://github.com/mwarning/meshnet-lab/issues/25) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
-5. ❗️ Opened issue [#25](https://github.com/mwarning/meshnet-lab/issues/25) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
+5. 🗣 Commented on [#25](https://github.com/mwarning/meshnet-lab/issues/25) in [mwarning/meshnet-lab](https://github.com/mwarning/meshnet-lab)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

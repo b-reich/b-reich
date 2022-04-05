@@ -17,11 +17,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/randomBrainstormer/MMM-GoogleCalendar/issues/16) in [randomBrainstormer/MMM-GoogleCalendar](https://github.com/randomBrainstormer/MMM-GoogleCalendar)
-2. 💪 Opened PR [#7](https://github.com/s0md3v/Smap/pull/7) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
-3. 🗣 Commented on [#6](https://github.com/s0md3v/Smap/issues/6) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
-4. ❗️ Opened issue [#6](https://github.com/s0md3v/Smap/issues/6) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
-5. ❗️ Opened issue [#132](https://github.com/linuxserver/docker-unifi-controller/issues/132) in [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller)
+1. 🗣 Commented on [#16](https://github.com/randomBrainstormer/MMM-GoogleCalendar/issues/16) in [randomBrainstormer/MMM-GoogleCalendar](https://github.com/randomBrainstormer/MMM-GoogleCalendar)
+2. ❗️ Opened issue [#16](https://github.com/randomBrainstormer/MMM-GoogleCalendar/issues/16) in [randomBrainstormer/MMM-GoogleCalendar](https://github.com/randomBrainstormer/MMM-GoogleCalendar)
+3. 💪 Opened PR [#7](https://github.com/s0md3v/Smap/pull/7) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
+4. 🗣 Commented on [#6](https://github.com/s0md3v/Smap/issues/6) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
+5. ❗️ Opened issue [#6](https://github.com/s0md3v/Smap/issues/6) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

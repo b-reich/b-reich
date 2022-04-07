@@ -20,8 +20,8 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 1. 🗣 Commented on [#6](https://github.com/s0md3v/Smap/issues/6) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
 2. 🗣 Commented on [#6](https://github.com/s0md3v/Smap/issues/6) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
 3. 🗣 Commented on [#6](https://github.com/s0md3v/Smap/issues/6) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
-4. 🗣 Commented on [#11](https://github.com/skuethe/MMM-HH-LocalTransport/issues/11) in [skuethe/MMM-HH-LocalTransport](https://github.com/skuethe/MMM-HH-LocalTransport)
-5. 🗣 Commented on [#11](https://github.com/skuethe/MMM-HH-LocalTransport/issues/11) in [skuethe/MMM-HH-LocalTransport](https://github.com/skuethe/MMM-HH-LocalTransport)
+4. 🗣 Commented on [#6](https://github.com/s0md3v/Smap/issues/6) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
+5. 🗣 Commented on [#6](https://github.com/s0md3v/Smap/issues/6) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

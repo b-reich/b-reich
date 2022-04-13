@@ -17,7 +17,7 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/s0md3v/Smap/issues/6) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
+1. ❗️ Opened issue [#8314](https://github.com/ScoopInstaller/Extras/issues/8314) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
 2. 🗣 Commented on [#6](https://github.com/s0md3v/Smap/issues/6) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
 3. 🗣 Commented on [#6](https://github.com/s0md3v/Smap/issues/6) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
 4. 🗣 Commented on [#6](https://github.com/s0md3v/Smap/issues/6) in [s0md3v/Smap](https://github.com/s0md3v/Smap)

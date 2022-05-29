@@ -17,10 +17,10 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/acxz/gazebo-arch/issues/6) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
-2. 🗣 Commented on [#11](https://github.com/skuethe/MMM-HH-LocalTransport/issues/11) in [skuethe/MMM-HH-LocalTransport](https://github.com/skuethe/MMM-HH-LocalTransport)
-3. ❗️ Opened issue [#8314](https://github.com/ScoopInstaller/Extras/issues/8314) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-4. 🗣 Commented on [#6](https://github.com/s0md3v/Smap/issues/6) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
+1. ❗️ Opened issue [#1](https://github.com/40percentwire/plex-dvdp/issues/1) in [40percentwire/plex-dvdp](https://github.com/40percentwire/plex-dvdp)
+2. ❗️ Opened issue [#6](https://github.com/acxz/gazebo-arch/issues/6) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+3. 🗣 Commented on [#11](https://github.com/skuethe/MMM-HH-LocalTransport/issues/11) in [skuethe/MMM-HH-LocalTransport](https://github.com/skuethe/MMM-HH-LocalTransport)
+4. ❗️ Opened issue [#8314](https://github.com/ScoopInstaller/Extras/issues/8314) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
 5. 🗣 Commented on [#6](https://github.com/s0md3v/Smap/issues/6) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
 <!--END_SECTION:activity-->
 

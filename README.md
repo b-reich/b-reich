@@ -18,10 +18,10 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8719](https://github.com/ScoopInstaller/Extras/issues/8719) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-2. 🗣 Commented on [#8719](https://github.com/ScoopInstaller/Extras/issues/8719) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-3. ❗️ Opened issue [#8719](https://github.com/ScoopInstaller/Extras/issues/8719) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-4. ❗️ Opened issue [#1](https://github.com/40percentwire/plex-dvdp/issues/1) in [40percentwire/plex-dvdp](https://github.com/40percentwire/plex-dvdp)
-5. ❗️ Opened issue [#6](https://github.com/acxz/gazebo-arch/issues/6) in [acxz/gazebo-arch](https://github.com/acxz/gazebo-arch)
+2. ❗️ Opened issue [#5980](https://github.com/signalapp/Signal-Desktop/issues/5980) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
+3. 🗣 Commented on [#8719](https://github.com/ScoopInstaller/Extras/issues/8719) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+4. 🗣 Commented on [#8719](https://github.com/ScoopInstaller/Extras/issues/8719) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+5. ❗️ Opened issue [#8719](https://github.com/ScoopInstaller/Extras/issues/8719) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

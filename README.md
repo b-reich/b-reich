@@ -17,11 +17,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#630](https://github.com/HaveAGitGat/Tdarr/issues/630) in [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr)
-2. 🗣 Commented on [#5980](https://github.com/signalapp/Signal-Desktop/issues/5980) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
+1. ❗️ Opened issue [#46](https://github.com/caddy-ansible/caddy-ansible/issues/46) in [caddy-ansible/caddy-ansible](https://github.com/caddy-ansible/caddy-ansible)
+2. 🗣 Commented on [#630](https://github.com/HaveAGitGat/Tdarr/issues/630) in [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr)
 3. 🗣 Commented on [#5980](https://github.com/signalapp/Signal-Desktop/issues/5980) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
 4. 🗣 Commented on [#5980](https://github.com/signalapp/Signal-Desktop/issues/5980) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
-5. 🗣 Commented on [#8724](https://github.com/ScoopInstaller/Extras/issues/8724) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+5. 🗣 Commented on [#5980](https://github.com/signalapp/Signal-Desktop/issues/5980) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

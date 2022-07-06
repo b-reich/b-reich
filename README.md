@@ -18,10 +18,10 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2905](https://github.com/Homebrew/homebrew-cask-drivers/issues/2905) in [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers)
-2. 💪 Opened PR [#2905](https://github.com/Homebrew/homebrew-cask-drivers/pull/2905) in [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers)
-3. ❗️ Opened issue [#46](https://github.com/caddy-ansible/caddy-ansible/issues/46) in [caddy-ansible/caddy-ansible](https://github.com/caddy-ansible/caddy-ansible)
-4. 🗣 Commented on [#630](https://github.com/HaveAGitGat/Tdarr/issues/630) in [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr)
-5. 🗣 Commented on [#5980](https://github.com/signalapp/Signal-Desktop/issues/5980) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
+2. 🗣 Commented on [#2905](https://github.com/Homebrew/homebrew-cask-drivers/issues/2905) in [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers)
+3. 💪 Opened PR [#2905](https://github.com/Homebrew/homebrew-cask-drivers/pull/2905) in [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers)
+4. ❗️ Opened issue [#46](https://github.com/caddy-ansible/caddy-ansible/issues/46) in [caddy-ansible/caddy-ansible](https://github.com/caddy-ansible/caddy-ansible)
+5. 🗣 Commented on [#630](https://github.com/HaveAGitGat/Tdarr/issues/630) in [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

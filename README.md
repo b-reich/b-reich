@@ -17,11 +17,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/skuethe/MMM-HH-LocalTransport/issues/11) in [skuethe/MMM-HH-LocalTransport](https://github.com/skuethe/MMM-HH-LocalTransport)
-2. 🗣 Commented on [#11](https://github.com/skuethe/MMM-HH-LocalTransport/issues/11) in [skuethe/MMM-HH-LocalTransport](https://github.com/skuethe/MMM-HH-LocalTransport)
-3. 💪 Opened PR [#2908](https://github.com/Homebrew/homebrew-cask-drivers/pull/2908) in [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers)
-4. 🗣 Commented on [#11](https://github.com/skuethe/MMM-HH-LocalTransport/issues/11) in [skuethe/MMM-HH-LocalTransport](https://github.com/skuethe/MMM-HH-LocalTransport)
-5. 🗣 Commented on [#2905](https://github.com/Homebrew/homebrew-cask-drivers/issues/2905) in [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers)
+1. ❗️ Opened issue [#75479](https://github.com/home-assistant/core/issues/75479) in [home-assistant/core](https://github.com/home-assistant/core)
+2. ❗️ Closed issue [#13237](https://github.com/home-assistant/frontend/issues/13237) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+3. ❗️ Opened issue [#13237](https://github.com/home-assistant/frontend/issues/13237) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+4. ❗️ Closed issue [#11](https://github.com/skuethe/MMM-HH-LocalTransport/issues/11) in [skuethe/MMM-HH-LocalTransport](https://github.com/skuethe/MMM-HH-LocalTransport)
+5. 🗣 Commented on [#11](https://github.com/skuethe/MMM-HH-LocalTransport/issues/11) in [skuethe/MMM-HH-LocalTransport](https://github.com/skuethe/MMM-HH-LocalTransport)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

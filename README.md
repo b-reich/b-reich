@@ -17,11 +17,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75479](https://github.com/home-assistant/core/issues/75479) in [home-assistant/core](https://github.com/home-assistant/core)
-2. ❗️ Opened issue [#75479](https://github.com/home-assistant/core/issues/75479) in [home-assistant/core](https://github.com/home-assistant/core)
-3. ❗️ Closed issue [#13237](https://github.com/home-assistant/frontend/issues/13237) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-4. ❗️ Opened issue [#13237](https://github.com/home-assistant/frontend/issues/13237) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-5. ❗️ Closed issue [#11](https://github.com/skuethe/MMM-HH-LocalTransport/issues/11) in [skuethe/MMM-HH-LocalTransport](https://github.com/skuethe/MMM-HH-LocalTransport)
+1. 🗣 Commented on [#39](https://github.com/solokeys/solo-desktop/issues/39) in [solokeys/solo-desktop](https://github.com/solokeys/solo-desktop)
+2. 🗣 Commented on [#75479](https://github.com/home-assistant/core/issues/75479) in [home-assistant/core](https://github.com/home-assistant/core)
+3. ❗️ Opened issue [#75479](https://github.com/home-assistant/core/issues/75479) in [home-assistant/core](https://github.com/home-assistant/core)
+4. ❗️ Closed issue [#13237](https://github.com/home-assistant/frontend/issues/13237) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+5. ❗️ Opened issue [#13237](https://github.com/home-assistant/frontend/issues/13237) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

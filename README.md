@@ -17,11 +17,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/solokeys/solo-desktop/issues/39) in [solokeys/solo-desktop](https://github.com/solokeys/solo-desktop)
-2. 🗣 Commented on [#75479](https://github.com/home-assistant/core/issues/75479) in [home-assistant/core](https://github.com/home-assistant/core)
-3. ❗️ Opened issue [#75479](https://github.com/home-assistant/core/issues/75479) in [home-assistant/core](https://github.com/home-assistant/core)
-4. ❗️ Closed issue [#13237](https://github.com/home-assistant/frontend/issues/13237) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-5. ❗️ Opened issue [#13237](https://github.com/home-assistant/frontend/issues/13237) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+1. 🗣 Commented on [#21](https://github.com/s0md3v/Smap/issues/21) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
+2. ❗️ Opened issue [#21](https://github.com/s0md3v/Smap/issues/21) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
+3. 🗣 Commented on [#39](https://github.com/solokeys/solo-desktop/issues/39) in [solokeys/solo-desktop](https://github.com/solokeys/solo-desktop)
+4. 🗣 Commented on [#75479](https://github.com/home-assistant/core/issues/75479) in [home-assistant/core](https://github.com/home-assistant/core)
+5. ❗️ Opened issue [#75479](https://github.com/home-assistant/core/issues/75479) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

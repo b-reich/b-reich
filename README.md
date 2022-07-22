@@ -17,11 +17,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#106353](https://github.com/Homebrew/homebrew-core/pull/106353) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-2. 🗣 Commented on [#21](https://github.com/s0md3v/Smap/issues/21) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
-3. 🗣 Commented on [#21](https://github.com/s0md3v/Smap/issues/21) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
+1. 💪 Opened PR [#23](https://github.com/s0md3v/Smap/pull/23) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
+2. ❗️ Opened issue [#22](https://github.com/s0md3v/Smap/issues/22) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
+3. 💪 Opened PR [#106353](https://github.com/Homebrew/homebrew-core/pull/106353) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 4. 🗣 Commented on [#21](https://github.com/s0md3v/Smap/issues/21) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
-5. ❗️ Opened issue [#21](https://github.com/s0md3v/Smap/issues/21) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
+5. 🗣 Commented on [#21](https://github.com/s0md3v/Smap/issues/21) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

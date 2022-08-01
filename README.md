@@ -17,11 +17,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2938](https://github.com/Homebrew/homebrew-cask-drivers/pull/2938) in [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers)
-2. ❗️ Closed issue [#22](https://github.com/s0md3v/Smap/issues/22) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
-3. 💪 Opened PR [#23](https://github.com/s0md3v/Smap/pull/23) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
-4. ❗️ Opened issue [#22](https://github.com/s0md3v/Smap/issues/22) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
-5. 💪 Opened PR [#106353](https://github.com/Homebrew/homebrew-core/pull/106353) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. 🗣 Commented on [#75479](https://github.com/home-assistant/core/issues/75479) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 💪 Opened PR [#2938](https://github.com/Homebrew/homebrew-cask-drivers/pull/2938) in [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers)
+3. ❗️ Closed issue [#22](https://github.com/s0md3v/Smap/issues/22) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
+4. 💪 Opened PR [#23](https://github.com/s0md3v/Smap/pull/23) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
+5. ❗️ Opened issue [#22](https://github.com/s0md3v/Smap/issues/22) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

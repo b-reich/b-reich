@@ -18,10 +18,10 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13382](https://github.com/Koenkk/zigbee2mqtt/issues/13382) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-2. 🗣 Commented on [#23](https://github.com/s0md3v/Smap/issues/23) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
-3. 🗣 Commented on [#75479](https://github.com/home-assistant/core/issues/75479) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 💪 Opened PR [#2938](https://github.com/Homebrew/homebrew-cask-drivers/pull/2938) in [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers)
-5. ❗️ Closed issue [#22](https://github.com/s0md3v/Smap/issues/22) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
+2. 🗣 Commented on [#13382](https://github.com/Koenkk/zigbee2mqtt/issues/13382) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+3. 🗣 Commented on [#23](https://github.com/s0md3v/Smap/issues/23) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
+4. 🗣 Commented on [#75479](https://github.com/home-assistant/core/issues/75479) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 💪 Opened PR [#2938](https://github.com/Homebrew/homebrew-cask-drivers/pull/2938) in [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

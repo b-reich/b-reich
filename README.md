@@ -17,11 +17,11 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13382](https://github.com/Koenkk/zigbee2mqtt/issues/13382) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-2. 🗣 Commented on [#107574](https://github.com/Homebrew/homebrew-core/issues/107574) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-3. 🗣 Commented on [#13382](https://github.com/Koenkk/zigbee2mqtt/issues/13382) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-4. 🗣 Commented on [#107574](https://github.com/Homebrew/homebrew-core/issues/107574) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-5. ❗️ Opened issue [#2](https://github.com/newroco/deckimportfromtrello/issues/2) in [newroco/deckimportfromtrello](https://github.com/newroco/deckimportfromtrello)
+1. 🗣 Commented on [#13788](https://github.com/Koenkk/zigbee2mqtt/issues/13788) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+2. 🗣 Commented on [#13788](https://github.com/Koenkk/zigbee2mqtt/issues/13788) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+3. 🗣 Commented on [#13788](https://github.com/Koenkk/zigbee2mqtt/issues/13788) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+4. 🗣 Commented on [#13788](https://github.com/Koenkk/zigbee2mqtt/issues/13788) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+5. 🗣 Commented on [#13788](https://github.com/Koenkk/zigbee2mqtt/issues/13788) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

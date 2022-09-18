@@ -18,10 +18,10 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#107574](https://github.com/Homebrew/homebrew-core/issues/107574) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-2. 💪 Opened PR [#110913](https://github.com/Homebrew/homebrew-core/pull/110913) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-3. 🗣 Commented on [#107574](https://github.com/Homebrew/homebrew-core/issues/107574) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+2. 🗣 Commented on [#107574](https://github.com/Homebrew/homebrew-core/issues/107574) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. 💪 Opened PR [#110913](https://github.com/Homebrew/homebrew-core/pull/110913) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 4. 🗣 Commented on [#107574](https://github.com/Homebrew/homebrew-core/issues/107574) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-5. ❗️ Closed issue [#13788](https://github.com/Koenkk/zigbee2mqtt/issues/13788) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+5. 🗣 Commented on [#107574](https://github.com/Homebrew/homebrew-core/issues/107574) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

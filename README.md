@@ -21,7 +21,7 @@ I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just s
 2. 🗣 Commented on [#107574](https://github.com/Homebrew/homebrew-core/issues/107574) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 3. 🗣 Commented on [#107574](https://github.com/Homebrew/homebrew-core/issues/107574) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 4. 🗣 Commented on [#107574](https://github.com/Homebrew/homebrew-core/issues/107574) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-5. 💪 Opened PR [#110913](https://github.com/Homebrew/homebrew-core/pull/110913) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+5. 🗣 Commented on [#107574](https://github.com/Homebrew/homebrew-core/issues/107574) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

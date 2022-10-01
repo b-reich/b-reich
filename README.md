@@ -1,12 +1,17 @@
 ### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=b-reich&style=flat-square" alt="b-reich" />
 
-### I'm a Student, Developer, IT-Admin!
-I'm a 25 year old computer scientist student. My focus is programming for embedded system.
-As an IT-Admin I also get in touch with networks and highly avaible services
+### I'm a DevOps Engineer
+I'm a started as a Sys-Admin. Maintaining Client-Nodes, Servers (Windows and Linux) and managing network infrastructure was just the beginning.
+Nowerdays my focus is more in configuration and infrastructure as code. My heart belongs to pipelines.
 
-### 🗺️ Location
-I am currently basend in beautiful **Buchholz in der Nordheide, Germany** just south of **Hamburg, Germany**.
+
+Tools: Ansible, Terraform
+Programming Languages: 🐍Python, Java
+Learning: Golang, 🦀Rust, K8s
+🐧Linux
+Azure, AWS, HetznerCloud and GPC
+CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### 📰 Blogs posts
 <!-- BLOG-POST-LIST:START -->

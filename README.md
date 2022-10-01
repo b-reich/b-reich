@@ -6,12 +6,13 @@ I'm started as a Sys-Admin. Maintaining Client-Nodes, Servers (Windows and Linux
 Nowerdays my focus is more in configuration and infrastructure as code. My heart belongs to pipelines.
 
 
-Tools: Ansible, Terraform<br /> \n
-Programming Languages: 🐍Python, Java<br />
-Learning: Golang, 🦀Rust, K8s<br />
-🐧Linux<br />
-Azure, AWS, HetznerCloud and GPC<br />
-CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci<br />
+Tools: Ansible, Terraform \
+Programming Languages: 🐍Python, Java \
+Learning: Golang, 🦀Rust, K8s \
+🐧Linux \
+Azure, AWS, HetznerCloud and GPC \
+CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
+
 ### 📰 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [EdgeRouter resolving local IPv6 addresses](https://benjaminreich.de/posts/edgerouter-resolving-local-ipv6-addresses/)

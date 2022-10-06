@@ -38,3 +38,5 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 <a href="https://twitter.com/chillfre4k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chillfre4k" height="30" width="30" /></a>
 </p>
 -->
+
+[![@chillfre4k's Holopin board](https://holopin.io/api/user/board?user=chillfre4k)](https://holopin.io/@chillfre4k)

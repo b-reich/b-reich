@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#132840](https://github.com/Homebrew/homebrew-cask/pull/132840) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-2. 💪 Opened PR [#132839](https://github.com/Homebrew/homebrew-cask/pull/132839) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-3. 🗣 Commented on [#3033](https://github.com/Homebrew/homebrew-cask-drivers/issues/3033) in [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers)
-4. 💪 Opened PR [#3033](https://github.com/Homebrew/homebrew-cask-drivers/pull/3033) in [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers)
-5. 💪 Opened PR [#132838](https://github.com/Homebrew/homebrew-cask/pull/132838) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+1. 💪 Opened PR [#112492](https://github.com/Homebrew/homebrew-core/pull/112492) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+2. 💪 Opened PR [#132840](https://github.com/Homebrew/homebrew-cask/pull/132840) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+3. 💪 Opened PR [#132839](https://github.com/Homebrew/homebrew-cask/pull/132839) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+4. 🗣 Commented on [#3033](https://github.com/Homebrew/homebrew-cask-drivers/issues/3033) in [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers)
+5. 💪 Opened PR [#3033](https://github.com/Homebrew/homebrew-cask-drivers/pull/3033) in [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

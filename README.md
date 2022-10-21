@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#112877](https://github.com/Homebrew/homebrew-core/issues/112877) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-2. 💪 Opened PR [#112877](https://github.com/Homebrew/homebrew-core/pull/112877) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-3. ❌ Closed PR [#107574](https://github.com/Homebrew/homebrew-core/pull/107574) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-4. 💪 Opened PR [#91](https://github.com/EdJoPaTo/mqttui/pull/91) in [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui)
-5. 🗣 Commented on [#112492](https://github.com/Homebrew/homebrew-core/issues/112492) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. 💪 Opened PR [#93](https://github.com/solokeys/solo2-cli/pull/93) in [solokeys/solo2-cli](https://github.com/solokeys/solo2-cli)
+2. 🗣 Commented on [#112877](https://github.com/Homebrew/homebrew-core/issues/112877) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. 💪 Opened PR [#112877](https://github.com/Homebrew/homebrew-core/pull/112877) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+4. ❌ Closed PR [#107574](https://github.com/Homebrew/homebrew-core/pull/107574) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+5. 💪 Opened PR [#91](https://github.com/EdJoPaTo/mqttui/pull/91) in [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

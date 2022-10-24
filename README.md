@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2255](https://github.com/louislam/uptime-kuma/pull/2255) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-2. 💪 Opened PR [#93](https://github.com/solokeys/solo2-cli/pull/93) in [solokeys/solo2-cli](https://github.com/solokeys/solo2-cli)
-3. 🗣 Commented on [#112877](https://github.com/Homebrew/homebrew-core/issues/112877) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-4. 💪 Opened PR [#112877](https://github.com/Homebrew/homebrew-core/pull/112877) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-5. ❌ Closed PR [#107574](https://github.com/Homebrew/homebrew-core/pull/107574) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. 💪 Opened PR [#134213](https://github.com/Homebrew/homebrew-cask/pull/134213) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+2. 💪 Opened PR [#2255](https://github.com/louislam/uptime-kuma/pull/2255) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+3. 💪 Opened PR [#93](https://github.com/solokeys/solo2-cli/pull/93) in [solokeys/solo2-cli](https://github.com/solokeys/solo2-cli)
+4. 🗣 Commented on [#112877](https://github.com/Homebrew/homebrew-core/issues/112877) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+5. 💪 Opened PR [#112877](https://github.com/Homebrew/homebrew-core/pull/112877) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

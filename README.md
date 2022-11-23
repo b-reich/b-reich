@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#425](https://github.com/mampfes/hacs_waste_collection_schedule/issues/425) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
-2. 💪 Opened PR [#135002](https://github.com/Homebrew/homebrew-cask/pull/135002) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-3. 💪 Opened PR [#6566](https://github.com/Homebrew/homebrew-cask-fonts/pull/6566) in [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
-4. 💪 Opened PR [#134641](https://github.com/Homebrew/homebrew-cask/pull/134641) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-5. 🗣 Commented on [#2255](https://github.com/louislam/uptime-kuma/issues/2255) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+1. 🗣 Commented on [#21](https://github.com/s0md3v/Smap/issues/21) in [s0md3v/Smap](https://github.com/s0md3v/Smap)
+2. ❗️ Opened issue [#425](https://github.com/mampfes/hacs_waste_collection_schedule/issues/425) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+3. 💪 Opened PR [#135002](https://github.com/Homebrew/homebrew-cask/pull/135002) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+4. 💪 Opened PR [#6566](https://github.com/Homebrew/homebrew-cask-fonts/pull/6566) in [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+5. 💪 Opened PR [#134641](https://github.com/Homebrew/homebrew-cask/pull/134641) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

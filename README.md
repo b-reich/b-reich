@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6649](https://github.com/Homebrew/homebrew-cask-fonts/issues/6649) in [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
-2. 💪 Opened PR [#6651](https://github.com/Homebrew/homebrew-cask-fonts/pull/6651) in [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
-3. 💪 Opened PR [#6650](https://github.com/Homebrew/homebrew-cask-fonts/pull/6650) in [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
-4. 💪 Opened PR [#136431](https://github.com/Homebrew/homebrew-cask/pull/136431) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-5. 💪 Opened PR [#6649](https://github.com/Homebrew/homebrew-cask-fonts/pull/6649) in [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+1. ❗️ Opened issue [#722](https://github.com/bambulab/BambuStudio/issues/722) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
+2. 🗣 Commented on [#6649](https://github.com/Homebrew/homebrew-cask-fonts/issues/6649) in [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+3. 💪 Opened PR [#6651](https://github.com/Homebrew/homebrew-cask-fonts/pull/6651) in [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+4. 💪 Opened PR [#6650](https://github.com/Homebrew/homebrew-cask-fonts/pull/6650) in [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+5. 💪 Opened PR [#136431](https://github.com/Homebrew/homebrew-cask/pull/136431) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

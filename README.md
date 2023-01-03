@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#722](https://github.com/bambulab/BambuStudio/issues/722) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
-2. ❗️ Opened issue [#722](https://github.com/bambulab/BambuStudio/issues/722) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
-3. 🗣 Commented on [#6649](https://github.com/Homebrew/homebrew-cask-fonts/issues/6649) in [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
-4. 💪 Opened PR [#6651](https://github.com/Homebrew/homebrew-cask-fonts/pull/6651) in [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
-5. 💪 Opened PR [#6650](https://github.com/Homebrew/homebrew-cask-fonts/pull/6650) in [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+1. 🗣 Commented on [#10175](https://github.com/ScoopInstaller/Extras/issues/10175) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+2. 💪 Opened PR [#10175](https://github.com/ScoopInstaller/Extras/pull/10175) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+3. 🗣 Commented on [#10174](https://github.com/ScoopInstaller/Extras/issues/10174) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+4. ❗️ Opened issue [#10174](https://github.com/ScoopInstaller/Extras/issues/10174) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+5. 🗣 Commented on [#722](https://github.com/bambulab/BambuStudio/issues/722) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

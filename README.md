@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1044](https://github.com/bambulab/BambuStudio/issues/1044) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
-2. 🗣 Commented on [#10175](https://github.com/ScoopInstaller/Extras/issues/10175) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+1. ❗️ Opened issue [#98](https://github.com/solokeys/solo2-cli/issues/98) in [solokeys/solo2-cli](https://github.com/solokeys/solo2-cli)
+2. 🗣 Commented on [#1044](https://github.com/bambulab/BambuStudio/issues/1044) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
 3. 🗣 Commented on [#10175](https://github.com/ScoopInstaller/Extras/issues/10175) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-4. 💪 Opened PR [#10175](https://github.com/ScoopInstaller/Extras/pull/10175) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-5. 🗣 Commented on [#10174](https://github.com/ScoopInstaller/Extras/issues/10174) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+4. 🗣 Commented on [#10175](https://github.com/ScoopInstaller/Extras/issues/10175) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+5. 💪 Opened PR [#10175](https://github.com/ScoopInstaller/Extras/pull/10175) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

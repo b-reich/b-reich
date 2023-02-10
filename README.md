@@ -22,10 +22,10 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10175](https://github.com/ScoopInstaller/Extras/issues/10175) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-2. 🗣 Commented on [#10175](https://github.com/ScoopInstaller/Extras/issues/10175) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-3. ❗️ Opened issue [#98](https://github.com/solokeys/solo2-cli/issues/98) in [solokeys/solo2-cli](https://github.com/solokeys/solo2-cli)
-4. 🗣 Commented on [#1044](https://github.com/bambulab/BambuStudio/issues/1044) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
+1. 💪 Opened PR [#140825](https://github.com/Homebrew/homebrew-cask/pull/140825) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+2. ❌ Closed PR [#140822](https://github.com/Homebrew/homebrew-cask/pull/140822) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+3. 🗣 Commented on [#140822](https://github.com/Homebrew/homebrew-cask/issues/140822) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+4. 💪 Opened PR [#140822](https://github.com/Homebrew/homebrew-cask/pull/140822) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 5. 🗣 Commented on [#10175](https://github.com/ScoopInstaller/Extras/issues/10175) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
 <!--END_SECTION:activity-->
 

@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#140825](https://github.com/Homebrew/homebrew-cask/pull/140825) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-2. ❌ Closed PR [#140822](https://github.com/Homebrew/homebrew-cask/pull/140822) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-3. 🗣 Commented on [#140822](https://github.com/Homebrew/homebrew-cask/issues/140822) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-4. 💪 Opened PR [#140822](https://github.com/Homebrew/homebrew-cask/pull/140822) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-5. 🗣 Commented on [#10175](https://github.com/ScoopInstaller/Extras/issues/10175) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+1. 🗣 Commented on [#2869](https://github.com/home-assistant/addons/issues/2869) in [home-assistant/addons](https://github.com/home-assistant/addons)
+2. 💪 Opened PR [#140825](https://github.com/Homebrew/homebrew-cask/pull/140825) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+3. ❌ Closed PR [#140822](https://github.com/Homebrew/homebrew-cask/pull/140822) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+4. 🗣 Commented on [#140822](https://github.com/Homebrew/homebrew-cask/issues/140822) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+5. 💪 Opened PR [#140822](https://github.com/Homebrew/homebrew-cask/pull/140822) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

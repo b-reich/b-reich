@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1305](https://github.com/bambulab/BambuStudio/issues/1305) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
-2. 🗣 Commented on [#166](https://github.com/lancachenet/monolithic/issues/166) in [lancachenet/monolithic](https://github.com/lancachenet/monolithic)
-3. 💪 Opened PR [#166](https://github.com/lancachenet/monolithic/pull/166) in [lancachenet/monolithic](https://github.com/lancachenet/monolithic)
-4. 🗣 Commented on [#2869](https://github.com/home-assistant/addons/issues/2869) in [home-assistant/addons](https://github.com/home-assistant/addons)
-5. 💪 Opened PR [#140825](https://github.com/Homebrew/homebrew-cask/pull/140825) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+1. 🗣 Commented on [#38](https://github.com/jclarke0000/MMM-DarkSkyForecast/issues/38) in [jclarke0000/MMM-DarkSkyForecast](https://github.com/jclarke0000/MMM-DarkSkyForecast)
+2. ❗️ Closed issue [#7](https://github.com/mykle1/MMM-PLOW/issues/7) in [mykle1/MMM-PLOW](https://github.com/mykle1/MMM-PLOW)
+3. ❗️ Opened issue [#7](https://github.com/mykle1/MMM-PLOW/issues/7) in [mykle1/MMM-PLOW](https://github.com/mykle1/MMM-PLOW)
+4. ❗️ Opened issue [#6](https://github.com/mykle1/MMM-PLOW/issues/6) in [mykle1/MMM-PLOW](https://github.com/mykle1/MMM-PLOW)
+5. ❗️ Opened issue [#1305](https://github.com/bambulab/BambuStudio/issues/1305) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#351](https://github.com/dlrudie/Snip/issues/351) in [dlrudie/Snip](https://github.com/dlrudie/Snip)
-2. ❗️ Opened issue [#1353](https://github.com/bambulab/BambuStudio/issues/1353) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
-3. 🗣 Commented on [#38](https://github.com/jclarke0000/MMM-DarkSkyForecast/issues/38) in [jclarke0000/MMM-DarkSkyForecast](https://github.com/jclarke0000/MMM-DarkSkyForecast)
-4. 🗣 Commented on [#166](https://github.com/lancachenet/monolithic/issues/166) in [lancachenet/monolithic](https://github.com/lancachenet/monolithic)
-5. 🗣 Commented on [#1305](https://github.com/bambulab/BambuStudio/issues/1305) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
+1. 🗣 Commented on [#126429](https://github.com/Homebrew/homebrew-core/issues/126429) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+2. 💪 Opened PR [#126429](https://github.com/Homebrew/homebrew-core/pull/126429) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. 🗣 Commented on [#351](https://github.com/dlrudie/Snip/issues/351) in [dlrudie/Snip](https://github.com/dlrudie/Snip)
+4. ❗️ Opened issue [#1353](https://github.com/bambulab/BambuStudio/issues/1353) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
+5. 🗣 Commented on [#38](https://github.com/jclarke0000/MMM-DarkSkyForecast/issues/38) in [jclarke0000/MMM-DarkSkyForecast](https://github.com/jclarke0000/MMM-DarkSkyForecast)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

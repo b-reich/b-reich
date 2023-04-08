@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#127387](https://github.com/Homebrew/homebrew-core/issues/127387) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-2. 💪 Opened PR [#127387](https://github.com/Homebrew/homebrew-core/pull/127387) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-3. 🗣 Commented on [#126797](https://github.com/Homebrew/homebrew-core/issues/126797) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. 💪 Opened PR [#3404](https://github.com/Homebrew/homebrew-cask-drivers/pull/3404) in [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers)
+2. 🗣 Commented on [#127387](https://github.com/Homebrew/homebrew-core/issues/127387) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. 💪 Opened PR [#127387](https://github.com/Homebrew/homebrew-core/pull/127387) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 4. 🗣 Commented on [#126797](https://github.com/Homebrew/homebrew-core/issues/126797) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-5. 💪 Opened PR [#126797](https://github.com/Homebrew/homebrew-core/pull/126797) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+5. 🗣 Commented on [#126797](https://github.com/Homebrew/homebrew-core/issues/126797) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

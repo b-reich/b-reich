@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#128241](https://github.com/Homebrew/homebrew-core/issues/128241) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-2. 💪 Opened PR [#128698](https://github.com/Homebrew/homebrew-core/pull/128698) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-3. 🗣 Commented on [#128241](https://github.com/Homebrew/homebrew-core/issues/128241) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-4. 💪 Opened PR [#128241](https://github.com/Homebrew/homebrew-core/pull/128241) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-5. 🗣 Commented on [#3415](https://github.com/Homebrew/homebrew-cask-drivers/issues/3415) in [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers)
+1. 🗣 Commented on [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
+2. 🗣 Commented on [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
+3. ❗️ Opened issue [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
+4. 🗣 Commented on [#128241](https://github.com/Homebrew/homebrew-core/issues/128241) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+5. 💪 Opened PR [#128698](https://github.com/Homebrew/homebrew-core/pull/128698) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

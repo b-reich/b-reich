@@ -23,10 +23,10 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
-2. 🗣 Commented on [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
+2. ❗️ Closed issue [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
 3. 🗣 Commented on [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
-4. ❗️ Opened issue [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
-5. 🗣 Commented on [#128241](https://github.com/Homebrew/homebrew-core/issues/128241) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+4. 🗣 Commented on [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
+5. 🗣 Commented on [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

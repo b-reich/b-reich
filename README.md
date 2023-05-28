@@ -22,9 +22,9 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
-2. ❗️ Closed issue [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
-3. 🗣 Commented on [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
+1. 💪 Opened PR [#1](https://github.com/dankerthrone/MMM-PirateSkyForecast/pull/1) in [dankerthrone/MMM-PirateSkyForecast](https://github.com/dankerthrone/MMM-PirateSkyForecast)
+2. 🗣 Commented on [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
+3. ❗️ Closed issue [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
 4. 🗣 Commented on [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
 5. 🗣 Commented on [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
 <!--END_SECTION:activity-->

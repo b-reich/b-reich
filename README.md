@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/Snille/MMM-homeassistant-sensors/issues/13) in [Snille/MMM-homeassistant-sensors](https://github.com/Snille/MMM-homeassistant-sensors)
-2. ❗️ Opened issue [#1](https://github.com/utzl/MMM-Solarman/issues/1) in [utzl/MMM-Solarman](https://github.com/utzl/MMM-Solarman)
+1. ❗ Opened issue [#13](https://github.com/Snille/MMM-homeassistant-sensors/issues/13) in [Snille/MMM-homeassistant-sensors](https://github.com/Snille/MMM-homeassistant-sensors)
+2. ❗ Opened issue [#1](https://github.com/utzl/MMM-Solarman/issues/1) in [utzl/MMM-Solarman](https://github.com/utzl/MMM-Solarman)
 3. 💪 Opened PR [#1](https://github.com/dankerthrone/MMM-PirateSkyForecast/pull/1) in [dankerthrone/MMM-PirateSkyForecast](https://github.com/dankerthrone/MMM-PirateSkyForecast)
 4. 🗣 Commented on [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
-5. ❗️ Closed issue [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
+5. 🔒 Closed issue [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

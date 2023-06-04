@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/jeeftor/HomeAssistant/pull/2) in [jeeftor/HomeAssistant](https://github.com/jeeftor/HomeAssistant)
-2. ❗ Opened issue [#13](https://github.com/Snille/MMM-homeassistant-sensors/issues/13) in [Snille/MMM-homeassistant-sensors](https://github.com/Snille/MMM-homeassistant-sensors)
-3. ❗ Opened issue [#1](https://github.com/utzl/MMM-Solarman/issues/1) in [utzl/MMM-Solarman](https://github.com/utzl/MMM-Solarman)
-4. 💪 Opened PR [#1](https://github.com/dankerthrone/MMM-PirateSkyForecast/pull/1) in [dankerthrone/MMM-PirateSkyForecast](https://github.com/dankerthrone/MMM-PirateSkyForecast)
-5. 🗣 Commented on [#194](https://github.com/lendy007/homeassistant-skodaconnect/issues/194) in [lendy007/homeassistant-skodaconnect](https://github.com/lendy007/homeassistant-skodaconnect)
+1. ❗ Opened issue [#164](https://github.com/Blueforcer/awtrix-light/issues/164) in [Blueforcer/awtrix-light](https://github.com/Blueforcer/awtrix-light)
+2. 💪 Opened PR [#2](https://github.com/jeeftor/HomeAssistant/pull/2) in [jeeftor/HomeAssistant](https://github.com/jeeftor/HomeAssistant)
+3. ❗ Opened issue [#13](https://github.com/Snille/MMM-homeassistant-sensors/issues/13) in [Snille/MMM-homeassistant-sensors](https://github.com/Snille/MMM-homeassistant-sensors)
+4. ❗ Opened issue [#1](https://github.com/utzl/MMM-Solarman/issues/1) in [utzl/MMM-Solarman](https://github.com/utzl/MMM-Solarman)
+5. 💪 Opened PR [#1](https://github.com/dankerthrone/MMM-PirateSkyForecast/pull/1) in [dankerthrone/MMM-PirateSkyForecast](https://github.com/dankerthrone/MMM-PirateSkyForecast)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

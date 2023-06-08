@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#835](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/835) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-2. 🗣 Commented on [#164](https://github.com/Blueforcer/awtrix-light/issues/164) in [Blueforcer/awtrix-light](https://github.com/Blueforcer/awtrix-light)
+1. 🗣 Commented on [#835](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/835) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+2. ❗ Opened issue [#835](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/835) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
 3. 🗣 Commented on [#164](https://github.com/Blueforcer/awtrix-light/issues/164) in [Blueforcer/awtrix-light](https://github.com/Blueforcer/awtrix-light)
 4. 🗣 Commented on [#164](https://github.com/Blueforcer/awtrix-light/issues/164) in [Blueforcer/awtrix-light](https://github.com/Blueforcer/awtrix-light)
-5. ❗ Opened issue [#164](https://github.com/Blueforcer/awtrix-light/issues/164) in [Blueforcer/awtrix-light](https://github.com/Blueforcer/awtrix-light)
+5. 🗣 Commented on [#164](https://github.com/Blueforcer/awtrix-light/issues/164) in [Blueforcer/awtrix-light](https://github.com/Blueforcer/awtrix-light)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

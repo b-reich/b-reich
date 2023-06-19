@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#835](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/835) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-2. 🔒 Closed issue [#835](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/835) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-3. 💪 Opened PR [#836](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/pull/836) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-4. 🗣 Commented on [#835](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/835) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-5. ❗ Opened issue [#835](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/835) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+1. 🗣 Commented on [#134154](https://github.com/Homebrew/homebrew-core/issues/134154) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+2. 💪 Opened PR [#134154](https://github.com/Homebrew/homebrew-core/pull/134154) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. 🗣 Commented on [#835](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/835) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+4. 🔒 Closed issue [#835](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/835) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+5. 💪 Opened PR [#836](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/pull/836) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

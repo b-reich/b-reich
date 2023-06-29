@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#285](https://github.com/StephanJoubert/home_assistant_solarman/issues/285) in [StephanJoubert/home_assistant_solarman](https://github.com/StephanJoubert/home_assistant_solarman)
+1. 🗣 Commented on [#287](https://github.com/StephanJoubert/home_assistant_solarman/issues/287) in [StephanJoubert/home_assistant_solarman](https://github.com/StephanJoubert/home_assistant_solarman)
 2. 🗣 Commented on [#285](https://github.com/StephanJoubert/home_assistant_solarman/issues/285) in [StephanJoubert/home_assistant_solarman](https://github.com/StephanJoubert/home_assistant_solarman)
-3. 🗣 Commented on [#13](https://github.com/Snille/MMM-homeassistant-sensors/issues/13) in [Snille/MMM-homeassistant-sensors](https://github.com/Snille/MMM-homeassistant-sensors)
-4. 🗣 Commented on [#134154](https://github.com/Homebrew/homebrew-core/issues/134154) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-5. 💪 Opened PR [#134154](https://github.com/Homebrew/homebrew-core/pull/134154) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. 🗣 Commented on [#285](https://github.com/StephanJoubert/home_assistant_solarman/issues/285) in [StephanJoubert/home_assistant_solarman](https://github.com/StephanJoubert/home_assistant_solarman)
+4. 🗣 Commented on [#13](https://github.com/Snille/MMM-homeassistant-sensors/issues/13) in [Snille/MMM-homeassistant-sensors](https://github.com/Snille/MMM-homeassistant-sensors)
+5. 🗣 Commented on [#134154](https://github.com/Homebrew/homebrew-core/issues/134154) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#150503](https://github.com/Homebrew/homebrew-cask/pull/150503) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-2. 💪 Opened PR [#15](https://github.com/wubbl0rz/VmChamp/pull/15) in [wubbl0rz/VmChamp](https://github.com/wubbl0rz/VmChamp)
-3. 🗣 Commented on [#1157](https://github.com/jgrapht/jgrapht/issues/1157) in [jgrapht/jgrapht](https://github.com/jgrapht/jgrapht)
-4. ❗ Opened issue [#1157](https://github.com/jgrapht/jgrapht/issues/1157) in [jgrapht/jgrapht](https://github.com/jgrapht/jgrapht)
-5. 🗣 Commented on [#287](https://github.com/StephanJoubert/home_assistant_solarman/issues/287) in [StephanJoubert/home_assistant_solarman](https://github.com/StephanJoubert/home_assistant_solarman)
+1. 🗣 Commented on [#150503](https://github.com/Homebrew/homebrew-cask/issues/150503) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+2. 💪 Opened PR [#150503](https://github.com/Homebrew/homebrew-cask/pull/150503) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+3. 💪 Opened PR [#15](https://github.com/wubbl0rz/VmChamp/pull/15) in [wubbl0rz/VmChamp](https://github.com/wubbl0rz/VmChamp)
+4. 🗣 Commented on [#1157](https://github.com/jgrapht/jgrapht/issues/1157) in [jgrapht/jgrapht](https://github.com/jgrapht/jgrapht)
+5. ❗ Opened issue [#1157](https://github.com/jgrapht/jgrapht/issues/1157) in [jgrapht/jgrapht](https://github.com/jgrapht/jgrapht)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

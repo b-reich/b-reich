@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1672](https://github.com/getumbrel/umbrel/issues/1672#issuecomment-1642480321) in [getumbrel/umbrel](https://github.com/getumbrel/umbrel)
-2. ❗ Opened issue [#1673](https://github.com/getumbrel/umbrel/issues/1673) in [getumbrel/umbrel](https://github.com/getumbrel/umbrel)
-3. ❗ Opened issue [#1672](https://github.com/getumbrel/umbrel/issues/1672) in [getumbrel/umbrel](https://github.com/getumbrel/umbrel)
-4. 🗣 Commented on [#150503](https://github.com/Homebrew/homebrew-cask/pull/150503#issuecomment-1624827885) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-5. 💪 Opened PR [#150503](https://github.com/Homebrew/homebrew-cask/pull/150503) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+1. 🗣 Commented on [#816](https://github.com/HaveAGitGat/Tdarr/issues/816#issuecomment-1658470535) in [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr)
+2. 🗣 Commented on [#1672](https://github.com/getumbrel/umbrel/issues/1672#issuecomment-1642480321) in [getumbrel/umbrel](https://github.com/getumbrel/umbrel)
+3. ❗ Opened issue [#1673](https://github.com/getumbrel/umbrel/issues/1673) in [getumbrel/umbrel](https://github.com/getumbrel/umbrel)
+4. ❗ Opened issue [#1672](https://github.com/getumbrel/umbrel/issues/1672) in [getumbrel/umbrel](https://github.com/getumbrel/umbrel)
+5. 🗣 Commented on [#150503](https://github.com/Homebrew/homebrew-cask/pull/150503#issuecomment-1624827885) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

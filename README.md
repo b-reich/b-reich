@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#816](https://github.com/HaveAGitGat/Tdarr/issues/816#issuecomment-1658850995) in [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr)
-2. 🗣 Commented on [#816](https://github.com/HaveAGitGat/Tdarr/issues/816#issuecomment-1658470535) in [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr)
-3. 🗣 Commented on [#1672](https://github.com/getumbrel/umbrel/issues/1672#issuecomment-1642480321) in [getumbrel/umbrel](https://github.com/getumbrel/umbrel)
-4. ❗ Opened issue [#1673](https://github.com/getumbrel/umbrel/issues/1673) in [getumbrel/umbrel](https://github.com/getumbrel/umbrel)
-5. ❗ Opened issue [#1672](https://github.com/getumbrel/umbrel/issues/1672) in [getumbrel/umbrel](https://github.com/getumbrel/umbrel)
+1. 💪 Opened PR [#138178](https://github.com/Homebrew/homebrew-core/pull/138178) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+2. 🗣 Commented on [#816](https://github.com/HaveAGitGat/Tdarr/issues/816#issuecomment-1658850995) in [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr)
+3. 🗣 Commented on [#816](https://github.com/HaveAGitGat/Tdarr/issues/816#issuecomment-1658470535) in [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr)
+4. 🗣 Commented on [#1672](https://github.com/getumbrel/umbrel/issues/1672#issuecomment-1642480321) in [getumbrel/umbrel](https://github.com/getumbrel/umbrel)
+5. ❗ Opened issue [#1673](https://github.com/getumbrel/umbrel/issues/1673) in [getumbrel/umbrel](https://github.com/getumbrel/umbrel)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

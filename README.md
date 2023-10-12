@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1022](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1022#issuecomment-1760271345) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-2. 🗣 Commented on [#1022](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1022#issuecomment-1760206596) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-3. 🗣 Commented on [#1022](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1022#issuecomment-1759106054) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-4. ❗ Opened issue [#1022](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1022) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-5. 🗣 Commented on [#139538](https://github.com/Homebrew/homebrew-core/pull/139538#issuecomment-1748660044) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. 🗣 Commented on [#1022](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1022#issuecomment-1760312051) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+2. 🔒 Closed issue [#1022](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1022) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+3. 🗣 Commented on [#1022](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1022#issuecomment-1760271345) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+4. 🗣 Commented on [#1022](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1022#issuecomment-1760206596) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+5. 🗣 Commented on [#1022](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1022#issuecomment-1759106054) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16114](https://github.com/Homebrew/brew/issues/16114) in [Homebrew/brew](https://github.com/Homebrew/brew)
-2. 🗣 Commented on [#1022](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1022#issuecomment-1760312051) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-3. 🔒 Closed issue [#1022](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1022) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-4. 🗣 Commented on [#1022](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1022#issuecomment-1760271345) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-5. 🗣 Commented on [#1022](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1022#issuecomment-1760206596) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+1. 💪 Opened PR [#155](https://github.com/rothgar/awesome-tuis/pull/155) in [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)
+2. ❗ Opened issue [#16114](https://github.com/Homebrew/brew/issues/16114) in [Homebrew/brew](https://github.com/Homebrew/brew)
+3. 🗣 Commented on [#1022](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1022#issuecomment-1760312051) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+4. 🔒 Closed issue [#1022](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1022) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+5. 🗣 Commented on [#1022](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1022#issuecomment-1760271345) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

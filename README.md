@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [test4](https://github.com/b-reich/FreshRSS/releases/tag/1.22.5) in [b-reich/FreshRSS](https://github.com/b-reich/FreshRSS)
-2. 🎉 Merged PR [#3](https://github.com/b-reich/FreshRSS/pull/3) in [b-reich/FreshRSS](https://github.com/b-reich/FreshRSS)
-3. 💪 Opened PR [#3](https://github.com/b-reich/FreshRSS/pull/3) in [b-reich/FreshRSS](https://github.com/b-reich/FreshRSS)
-4. 🚀 Published release [test3](https://github.com/b-reich/FreshRSS/releases/tag/1.22.4) in [b-reich/FreshRSS](https://github.com/b-reich/FreshRSS)
-5. 🎉 Merged PR [#2](https://github.com/b-reich/FreshRSS/pull/2) in [b-reich/FreshRSS](https://github.com/b-reich/FreshRSS)
+1. 🚀 Published release [test](https://github.com/b-reich/FreshRSS/releases/tag/1.22.6) in [b-reich/FreshRSS](https://github.com/b-reich/FreshRSS)
+2. 🎉 Merged PR [#4](https://github.com/b-reich/FreshRSS/pull/4) in [b-reich/FreshRSS](https://github.com/b-reich/FreshRSS)
+3. 💪 Opened PR [#4](https://github.com/b-reich/FreshRSS/pull/4) in [b-reich/FreshRSS](https://github.com/b-reich/FreshRSS)
+4. 🚀 Published release [test4](https://github.com/b-reich/FreshRSS/releases/tag/1.22.5) in [b-reich/FreshRSS](https://github.com/b-reich/FreshRSS)
+5. 🎉 Merged PR [#3](https://github.com/b-reich/FreshRSS/pull/3) in [b-reich/FreshRSS](https://github.com/b-reich/FreshRSS)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

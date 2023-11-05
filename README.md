@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3263](https://github.com/MichMich/MagicMirror/issues/3263) in [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror)
-2. 🗣 Commented on [#690](https://github.com/raspberrypi/rpi-imager/issues/690#issuecomment-1793551230) in [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager)
-3. 🗣 Commented on [#690](https://github.com/raspberrypi/rpi-imager/issues/690#issuecomment-1793551025) in [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager)
-4. 🚀 Published release [test](https://github.com/b-reich/FreshRSS/releases/tag/1.22.6) in [b-reich/FreshRSS](https://github.com/b-reich/FreshRSS)
-5. 🎉 Merged PR [#4](https://github.com/b-reich/FreshRSS/pull/4) in [b-reich/FreshRSS](https://github.com/b-reich/FreshRSS)
+1. 🗣 Commented on [#5808](https://github.com/FreshRSS/FreshRSS/pull/5808#issuecomment-1793710791) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+2. 🗣 Commented on [#5808](https://github.com/FreshRSS/FreshRSS/pull/5808#issuecomment-1793707843) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+3. 🗣 Commented on [#3263](https://github.com/MichMich/MagicMirror/issues/3263#issuecomment-1793706688) in [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror)
+4. ❗ Opened issue [#3263](https://github.com/MichMich/MagicMirror/issues/3263) in [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror)
+5. 🗣 Commented on [#690](https://github.com/raspberrypi/rpi-imager/issues/690#issuecomment-1793551230) in [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

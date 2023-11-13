@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#144](https://github.com/EdJoPaTo/mqttui/pull/144#issuecomment-1807219527) in [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui)
-2. 🗣 Commented on [#144](https://github.com/EdJoPaTo/mqttui/pull/144#issuecomment-1807217577) in [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui)
-3. 💪 Opened PR [#5841](https://github.com/FreshRSS/FreshRSS/pull/5841) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
-4. 🗣 Commented on [#5808](https://github.com/FreshRSS/FreshRSS/pull/5808#issuecomment-1793804539) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
-5. 🗣 Commented on [#5808](https://github.com/FreshRSS/FreshRSS/pull/5808#issuecomment-1793732739) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+1. 🗣 Commented on [#144](https://github.com/EdJoPaTo/mqttui/pull/144#issuecomment-1808819255) in [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui)
+2. 🗣 Commented on [#144](https://github.com/EdJoPaTo/mqttui/pull/144#issuecomment-1807219527) in [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui)
+3. 🗣 Commented on [#144](https://github.com/EdJoPaTo/mqttui/pull/144#issuecomment-1807217577) in [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui)
+4. 💪 Opened PR [#5841](https://github.com/FreshRSS/FreshRSS/pull/5841) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+5. 🗣 Commented on [#5808](https://github.com/FreshRSS/FreshRSS/pull/5808#issuecomment-1793804539) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

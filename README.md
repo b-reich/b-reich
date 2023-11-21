@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#154266](https://github.com/Homebrew/homebrew-core/pull/154266#issuecomment-1810366692) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-2. 🗣 Commented on [#144](https://github.com/EdJoPaTo/mqttui/pull/144#issuecomment-1808819255) in [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui)
-3. 🗣 Commented on [#144](https://github.com/EdJoPaTo/mqttui/pull/144#issuecomment-1807219527) in [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui)
-4. 🗣 Commented on [#144](https://github.com/EdJoPaTo/mqttui/pull/144#issuecomment-1807217577) in [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui)
-5. 💪 Opened PR [#5841](https://github.com/FreshRSS/FreshRSS/pull/5841) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+1. 🗣 Commented on [#407](https://github.com/StephanJoubert/home_assistant_solarman/issues/407#issuecomment-1820349659) in [StephanJoubert/home_assistant_solarman](https://github.com/StephanJoubert/home_assistant_solarman)
+2. 🗣 Commented on [#154266](https://github.com/Homebrew/homebrew-core/pull/154266#issuecomment-1810366692) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. 🗣 Commented on [#144](https://github.com/EdJoPaTo/mqttui/pull/144#issuecomment-1808819255) in [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui)
+4. 🗣 Commented on [#144](https://github.com/EdJoPaTo/mqttui/pull/144#issuecomment-1807219527) in [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui)
+5. 🗣 Commented on [#144](https://github.com/EdJoPaTo/mqttui/pull/144#issuecomment-1807217577) in [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#873](https://github.com/luizdepra/hugo-coder/issues/873) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
-2. 🗣 Commented on [#407](https://github.com/StephanJoubert/home_assistant_solarman/issues/407#issuecomment-1820349659) in [StephanJoubert/home_assistant_solarman](https://github.com/StephanJoubert/home_assistant_solarman)
-3. 🗣 Commented on [#154266](https://github.com/Homebrew/homebrew-core/pull/154266#issuecomment-1810366692) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-4. 🗣 Commented on [#144](https://github.com/EdJoPaTo/mqttui/pull/144#issuecomment-1808819255) in [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui)
-5. 🗣 Commented on [#144](https://github.com/EdJoPaTo/mqttui/pull/144#issuecomment-1807219527) in [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui)
+1. 🗣 Commented on [#858](https://github.com/luizdepra/hugo-coder/issues/858#issuecomment-1868593917) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
+2. 🔒 Closed issue [#873](https://github.com/luizdepra/hugo-coder/issues/873) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
+3. 🗣 Commented on [#139538](https://github.com/Homebrew/homebrew-core/pull/139538#issuecomment-1868592679) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+4. ❗ Opened issue [#873](https://github.com/luizdepra/hugo-coder/issues/873) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
+5. 🗣 Commented on [#407](https://github.com/StephanJoubert/home_assistant_solarman/issues/407#issuecomment-1820349659) in [StephanJoubert/home_assistant_solarman](https://github.com/StephanJoubert/home_assistant_solarman)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

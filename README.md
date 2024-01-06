@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#35](https://github.com/1zc/CS2-Pterodactyl/issues/35) in [1zc/CS2-Pterodactyl](https://github.com/1zc/CS2-Pterodactyl)
-2. 🗣 Commented on [#2490](https://github.com/parkervcp/eggs/pull/2490#issuecomment-1879764118) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
-3. 🗣 Commented on [#858](https://github.com/luizdepra/hugo-coder/issues/858#issuecomment-1868593917) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
-4. 🔒 Closed issue [#873](https://github.com/luizdepra/hugo-coder/issues/873) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
-5. 🗣 Commented on [#139538](https://github.com/Homebrew/homebrew-core/pull/139538#issuecomment-1868592679) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. 🗣 Commented on [#35](https://github.com/1zc/CS2-Pterodactyl/issues/35#issuecomment-1879784782) in [1zc/CS2-Pterodactyl](https://github.com/1zc/CS2-Pterodactyl)
+2. 💪 Opened PR [#36](https://github.com/1zc/CS2-Pterodactyl/pull/36) in [1zc/CS2-Pterodactyl](https://github.com/1zc/CS2-Pterodactyl)
+3. ❗ Opened issue [#35](https://github.com/1zc/CS2-Pterodactyl/issues/35) in [1zc/CS2-Pterodactyl](https://github.com/1zc/CS2-Pterodactyl)
+4. 🗣 Commented on [#2490](https://github.com/parkervcp/eggs/pull/2490#issuecomment-1879764118) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
+5. 🗣 Commented on [#858](https://github.com/luizdepra/hugo-coder/issues/858#issuecomment-1868593917) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

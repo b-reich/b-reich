@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/1zc/CS2-Pterodactyl/issues/35#issuecomment-1879784782) in [1zc/CS2-Pterodactyl](https://github.com/1zc/CS2-Pterodactyl)
-2. 💪 Opened PR [#36](https://github.com/1zc/CS2-Pterodactyl/pull/36) in [1zc/CS2-Pterodactyl](https://github.com/1zc/CS2-Pterodactyl)
-3. ❗ Opened issue [#35](https://github.com/1zc/CS2-Pterodactyl/issues/35) in [1zc/CS2-Pterodactyl](https://github.com/1zc/CS2-Pterodactyl)
-4. 🗣 Commented on [#2490](https://github.com/parkervcp/eggs/pull/2490#issuecomment-1879764118) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
-5. 🗣 Commented on [#858](https://github.com/luizdepra/hugo-coder/issues/858#issuecomment-1868593917) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
+1. 🗣 Commented on [#6742](https://github.com/signalapp/Signal-Desktop/issues/6742#issuecomment-1882632907) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
+2. 🗣 Commented on [#35](https://github.com/1zc/CS2-Pterodactyl/issues/35#issuecomment-1879784782) in [1zc/CS2-Pterodactyl](https://github.com/1zc/CS2-Pterodactyl)
+3. 💪 Opened PR [#36](https://github.com/1zc/CS2-Pterodactyl/pull/36) in [1zc/CS2-Pterodactyl](https://github.com/1zc/CS2-Pterodactyl)
+4. ❗ Opened issue [#35](https://github.com/1zc/CS2-Pterodactyl/issues/35) in [1zc/CS2-Pterodactyl](https://github.com/1zc/CS2-Pterodactyl)
+5. 🗣 Commented on [#2490](https://github.com/parkervcp/eggs/pull/2490#issuecomment-1879764118) in [parkervcp/eggs](https://github.com/parkervcp/eggs)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

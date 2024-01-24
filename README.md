@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#577](https://github.com/walkxcode/dashboard-icons/pull/577) in [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons)
-2. ❗ Opened issue [#750](https://github.com/ansible-collections/community.docker/issues/750) in [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker)
-3. 🗣 Commented on [#739](https://github.com/ansible-collections/community.docker/pull/739#issuecomment-1888525953) in [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker)
-4. 🗣 Commented on [#739](https://github.com/ansible-collections/community.docker/pull/739#issuecomment-1887106419) in [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker)
-5. 🗣 Commented on [#6742](https://github.com/signalapp/Signal-Desktop/issues/6742#issuecomment-1882632907) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
+1. 🔒 Closed issue [#750](https://github.com/ansible-collections/community.docker/issues/750) in [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker)
+2. 🗣 Commented on [#750](https://github.com/ansible-collections/community.docker/issues/750#issuecomment-1908011462) in [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker)
+3. 💪 Opened PR [#577](https://github.com/walkxcode/dashboard-icons/pull/577) in [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons)
+4. ❗ Opened issue [#750](https://github.com/ansible-collections/community.docker/issues/750) in [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker)
+5. 🗣 Commented on [#739](https://github.com/ansible-collections/community.docker/pull/739#issuecomment-1888525953) in [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

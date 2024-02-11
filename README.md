@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#167](https://github.com/Bee-Mar/mmpm/issues/167#issuecomment-1937814175) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
-2. 🗣 Commented on [#167](https://github.com/Bee-Mar/mmpm/issues/167#issuecomment-1937806091) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
-3. 🗣 Commented on [#167](https://github.com/Bee-Mar/mmpm/issues/167#issuecomment-1937802396) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
-4. 🗣 Commented on [#167](https://github.com/Bee-Mar/mmpm/issues/167#issuecomment-1937796205) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
-5. 🔓 Reopened issue [#167](https://github.com/Bee-Mar/mmpm/issues/167) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
+1. 🔒 Closed issue [#167](https://github.com/Bee-Mar/mmpm/issues/167) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
+2. 🗣 Commented on [#167](https://github.com/Bee-Mar/mmpm/issues/167#issuecomment-1937860171) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
+3. 🗣 Commented on [#167](https://github.com/Bee-Mar/mmpm/issues/167#issuecomment-1937814175) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
+4. 🗣 Commented on [#167](https://github.com/Bee-Mar/mmpm/issues/167#issuecomment-1937806091) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
+5. 🗣 Commented on [#167](https://github.com/Bee-Mar/mmpm/issues/167#issuecomment-1937802396) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16878](https://github.com/Homebrew/brew/issues/16878#issuecomment-1989263620) in [Homebrew/brew](https://github.com/Homebrew/brew)
-2. 🗣 Commented on [#16878](https://github.com/Homebrew/brew/issues/16878#issuecomment-1989250409) in [Homebrew/brew](https://github.com/Homebrew/brew)
-3. ❗ Opened issue [#16878](https://github.com/Homebrew/brew/issues/16878) in [Homebrew/brew](https://github.com/Homebrew/brew)
-4. 💪 Opened PR [#531](https://github.com/evcc-io/docs/pull/531) in [evcc-io/docs](https://github.com/evcc-io/docs)
-5. 💪 Opened PR [#166681](https://github.com/Homebrew/homebrew-cask/pull/166681) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+1. 💪 Opened PR [#166817](https://github.com/Homebrew/homebrew-core/pull/166817) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+2. 🗣 Commented on [#16878](https://github.com/Homebrew/brew/issues/16878#issuecomment-1989263620) in [Homebrew/brew](https://github.com/Homebrew/brew)
+3. 🗣 Commented on [#16878](https://github.com/Homebrew/brew/issues/16878#issuecomment-1989250409) in [Homebrew/brew](https://github.com/Homebrew/brew)
+4. ❗ Opened issue [#16878](https://github.com/Homebrew/brew/issues/16878) in [Homebrew/brew](https://github.com/Homebrew/brew)
+5. 💪 Opened PR [#531](https://github.com/evcc-io/docs/pull/531) in [evcc-io/docs](https://github.com/evcc-io/docs)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

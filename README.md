@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1374](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1374#issuecomment-2162221969) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-2. 🗣 Commented on [#1374](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1374#issuecomment-2162196488) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-3. ❗ Opened issue [#1374](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1374) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-4. 🗣 Commented on [#49](https://github.com/loganmarchione/hassos-addons/pull/49#issuecomment-2106197939) in [loganmarchione/hassos-addons](https://github.com/loganmarchione/hassos-addons)
-5. 💪 Opened PR [#49](https://github.com/loganmarchione/hassos-addons/pull/49) in [loganmarchione/hassos-addons](https://github.com/loganmarchione/hassos-addons)
+1. ❗ Opened issue [#9](https://github.com/miskcoo/ugreen_dx4600_leds_controller/issues/9) in [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller)
+2. 🗣 Commented on [#1374](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1374#issuecomment-2162221969) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+3. 🗣 Commented on [#1374](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1374#issuecomment-2162196488) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+4. ❗ Opened issue [#1374](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1374) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+5. 🗣 Commented on [#49](https://github.com/loganmarchione/hassos-addons/pull/49#issuecomment-2106197939) in [loganmarchione/hassos-addons](https://github.com/loganmarchione/hassos-addons)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

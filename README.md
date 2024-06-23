@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1374](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1374#issuecomment-2172953711) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-2. 🗣 Commented on [#9](https://github.com/miskcoo/ugreen_dx4600_leds_controller/issues/9#issuecomment-2171777799) in [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller)
-3. 🗣 Commented on [#9](https://github.com/miskcoo/ugreen_dx4600_leds_controller/issues/9#issuecomment-2171769915) in [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller)
-4. 🗣 Commented on [#9](https://github.com/miskcoo/ugreen_dx4600_leds_controller/issues/9#issuecomment-2169875547) in [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller)
-5. 🗣 Commented on [#9](https://github.com/miskcoo/ugreen_dx4600_leds_controller/issues/9#issuecomment-2169861968) in [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller)
+1. 💪 Opened PR [#17](https://github.com/miskcoo/ugreen_dx4600_leds_controller/pull/17) in [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller)
+2. 🗣 Commented on [#1374](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1374#issuecomment-2172953711) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+3. 🗣 Commented on [#9](https://github.com/miskcoo/ugreen_dx4600_leds_controller/issues/9#issuecomment-2171777799) in [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller)
+4. 🗣 Commented on [#9](https://github.com/miskcoo/ugreen_dx4600_leds_controller/issues/9#issuecomment-2171769915) in [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller)
+5. 🗣 Commented on [#9](https://github.com/miskcoo/ugreen_dx4600_leds_controller/issues/9#issuecomment-2169875547) in [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

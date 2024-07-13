@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/Snille/MMM-homeassistant-sensors/issues/13#issuecomment-2208681944) in [Snille/MMM-homeassistant-sensors](https://github.com/Snille/MMM-homeassistant-sensors)
-2. 💪 Opened PR [#17](https://github.com/miskcoo/ugreen_dx4600_leds_controller/pull/17) in [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller)
-3. 🗣 Commented on [#1374](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1374#issuecomment-2172953711) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-4. 🗣 Commented on [#9](https://github.com/miskcoo/ugreen_dx4600_leds_controller/issues/9#issuecomment-2171777799) in [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller)
-5. 🗣 Commented on [#9](https://github.com/miskcoo/ugreen_dx4600_leds_controller/issues/9#issuecomment-2171769915) in [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller)
+1. ❗ Opened issue [#2634](https://github.com/TabbyML/tabby/issues/2634) in [TabbyML/tabby](https://github.com/TabbyML/tabby)
+2. 🗣 Commented on [#2082](https://github.com/TabbyML/tabby/issues/2082#issuecomment-2226889985) in [TabbyML/tabby](https://github.com/TabbyML/tabby)
+3. 🗣 Commented on [#13](https://github.com/Snille/MMM-homeassistant-sensors/issues/13#issuecomment-2208681944) in [Snille/MMM-homeassistant-sensors](https://github.com/Snille/MMM-homeassistant-sensors)
+4. 💪 Opened PR [#17](https://github.com/miskcoo/ugreen_dx4600_leds_controller/pull/17) in [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller)
+5. 🗣 Commented on [#1374](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1374#issuecomment-2172953711) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2634](https://github.com/TabbyML/tabby/issues/2634) in [TabbyML/tabby](https://github.com/TabbyML/tabby)
-2. 🗣 Commented on [#2082](https://github.com/TabbyML/tabby/issues/2082#issuecomment-2226889985) in [TabbyML/tabby](https://github.com/TabbyML/tabby)
-3. 🗣 Commented on [#13](https://github.com/Snille/MMM-homeassistant-sensors/issues/13#issuecomment-2208681944) in [Snille/MMM-homeassistant-sensors](https://github.com/Snille/MMM-homeassistant-sensors)
-4. 💪 Opened PR [#17](https://github.com/miskcoo/ugreen_dx4600_leds_controller/pull/17) in [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller)
-5. 🗣 Commented on [#1374](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/issues/1374#issuecomment-2172953711) in [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+1. 🎉 Merged PR [#7](https://github.com/b-reich/latex-docker/pull/7) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
+2. 🎉 Merged PR [#6](https://github.com/b-reich/latex-docker/pull/6) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
+3. 🎉 Merged PR [#5](https://github.com/b-reich/latex-docker/pull/5) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
+4. ❗ Opened issue [#2634](https://github.com/TabbyML/tabby/issues/2634) in [TabbyML/tabby](https://github.com/TabbyML/tabby)
+5. 🗣 Commented on [#2082](https://github.com/TabbyML/tabby/issues/2082#issuecomment-2226889985) in [TabbyML/tabby](https://github.com/TabbyML/tabby)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

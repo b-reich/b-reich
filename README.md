@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/b-reich/ha-matterserver-docker/pull/5) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
-2. 🎉 Merged PR [#6](https://github.com/b-reich/ha-matterserver-docker/pull/6) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
-3. 🎉 Merged PR [#10](https://github.com/b-reich/latex-docker/pull/10) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
-4. 🎉 Merged PR [#9](https://github.com/b-reich/latex-docker/pull/9) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
-5. 🎉 Merged PR [#3](https://github.com/b-reich/ha-matterserver-docker/pull/3) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
+1. 🗣 Commented on [#36](https://github.com/1zc/CS2-Pterodactyl/pull/36#issuecomment-2228476740) in [1zc/CS2-Pterodactyl](https://github.com/1zc/CS2-Pterodactyl)
+2. 🎉 Merged PR [#12](https://github.com/b-reich/latex-docker/pull/12) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
+3. 🎉 Merged PR [#11](https://github.com/b-reich/latex-docker/pull/11) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
+4. 🎉 Merged PR [#10](https://github.com/b-reich/ha-matterserver-docker/pull/10) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
+5. 🎉 Merged PR [#9](https://github.com/b-reich/ha-matterserver-docker/pull/9) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

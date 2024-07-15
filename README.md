@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/b-reich/ha-matterserver-docker/pull/3) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
-2. 🎉 Merged PR [#2](https://github.com/b-reich/ha-matterserver-docker/pull/2) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
-3. 🎉 Merged PR [#1](https://github.com/b-reich/ha-matterserver-docker/pull/1) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
-4. 🎉 Merged PR [#7](https://github.com/b-reich/latex-docker/pull/7) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
-5. 🎉 Merged PR [#6](https://github.com/b-reich/latex-docker/pull/6) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
+1. 🎉 Merged PR [#5](https://github.com/b-reich/ha-matterserver-docker/pull/5) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
+2. 🎉 Merged PR [#6](https://github.com/b-reich/ha-matterserver-docker/pull/6) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
+3. 🎉 Merged PR [#10](https://github.com/b-reich/latex-docker/pull/10) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
+4. 🎉 Merged PR [#9](https://github.com/b-reich/latex-docker/pull/9) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
+5. 🎉 Merged PR [#3](https://github.com/b-reich/ha-matterserver-docker/pull/3) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

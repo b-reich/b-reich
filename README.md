@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/b-reich/ha-matterserver-docker/pull/15) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
-2. 🎉 Merged PR [#14](https://github.com/b-reich/ha-matterserver-docker/pull/14) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
-3. 🎉 Merged PR [#13](https://github.com/b-reich/ha-matterserver-docker/pull/13) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
-4. 🎉 Merged PR [#12](https://github.com/b-reich/ha-matterserver-docker/pull/12) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
-5. 🗣 Commented on [#2711](https://github.com/TabbyML/tabby/pull/2711#issuecomment-2257956437) in [TabbyML/tabby](https://github.com/TabbyML/tabby)
+1. 🎉 Merged PR [#3](https://github.com/b-reich/b-reich/pull/3) in [b-reich/b-reich](https://github.com/b-reich/b-reich)
+2. 🎉 Merged PR [#3](https://github.com/b-reich/aur/pull/3) in [b-reich/aur](https://github.com/b-reich/aur)
+3. 🎉 Merged PR [#16](https://github.com/b-reich/ha-matterserver-docker/pull/16) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
+4. 🎉 Merged PR [#1](https://github.com/b-reich/b-reich/pull/1) in [b-reich/b-reich](https://github.com/b-reich/b-reich)
+5. 🎉 Merged PR [#1](https://github.com/b-reich/aur/pull/1) in [b-reich/aur](https://github.com/b-reich/aur)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

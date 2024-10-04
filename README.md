@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/b-reich/b-reich/pull/3) in [b-reich/b-reich](https://github.com/b-reich/b-reich)
-2. 🎉 Merged PR [#3](https://github.com/b-reich/aur/pull/3) in [b-reich/aur](https://github.com/b-reich/aur)
-3. 🎉 Merged PR [#16](https://github.com/b-reich/ha-matterserver-docker/pull/16) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
-4. 🎉 Merged PR [#1](https://github.com/b-reich/b-reich/pull/1) in [b-reich/b-reich](https://github.com/b-reich/b-reich)
-5. 🎉 Merged PR [#1](https://github.com/b-reich/aur/pull/1) in [b-reich/aur](https://github.com/b-reich/aur)
+1. ❗ Opened issue [#3868](https://github.com/ghostfolio/ghostfolio/issues/3868) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+2. 🎉 Merged PR [#3](https://github.com/b-reich/b-reich/pull/3) in [b-reich/b-reich](https://github.com/b-reich/b-reich)
+3. 🎉 Merged PR [#3](https://github.com/b-reich/aur/pull/3) in [b-reich/aur](https://github.com/b-reich/aur)
+4. 🎉 Merged PR [#16](https://github.com/b-reich/ha-matterserver-docker/pull/16) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
+5. 🎉 Merged PR [#1](https://github.com/b-reich/b-reich/pull/1) in [b-reich/b-reich](https://github.com/b-reich/b-reich)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

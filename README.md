@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/EdJoPaTo/iPhoneBatteryHealth/pull/13) in [EdJoPaTo/iPhoneBatteryHealth](https://github.com/EdJoPaTo/iPhoneBatteryHealth)
-2. 🗣 Commented on [#3858](https://github.com/ghostfolio/ghostfolio/pull/3858#issuecomment-2394981684) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-3. ❗ Opened issue [#3868](https://github.com/ghostfolio/ghostfolio/issues/3868) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-4. 🎉 Merged PR [#3](https://github.com/b-reich/b-reich/pull/3) in [b-reich/b-reich](https://github.com/b-reich/b-reich)
-5. 🎉 Merged PR [#3](https://github.com/b-reich/aur/pull/3) in [b-reich/aur](https://github.com/b-reich/aur)
+1. ❗ Opened issue [#193](https://github.com/Bee-Mar/mmpm/issues/193) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
+2. 💪 Opened PR [#13](https://github.com/EdJoPaTo/iPhoneBatteryHealth/pull/13) in [EdJoPaTo/iPhoneBatteryHealth](https://github.com/EdJoPaTo/iPhoneBatteryHealth)
+3. 🗣 Commented on [#3858](https://github.com/ghostfolio/ghostfolio/pull/3858#issuecomment-2394981684) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+4. ❗ Opened issue [#3868](https://github.com/ghostfolio/ghostfolio/issues/3868) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+5. 🎉 Merged PR [#3](https://github.com/b-reich/b-reich/pull/3) in [b-reich/b-reich](https://github.com/b-reich/b-reich)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

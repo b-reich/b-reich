@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2213](https://github.com/ansible/ansible-documentation/pull/2213#issuecomment-2487727511) in [ansible/ansible-documentation](https://github.com/ansible/ansible-documentation)
-2. 💪 Opened PR [#2213](https://github.com/ansible/ansible-documentation/pull/2213) in [ansible/ansible-documentation](https://github.com/ansible/ansible-documentation)
-3. 💪 Opened PR [#204](https://github.com/Bee-Mar/mmpm/pull/204) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
-4. 🗣 Commented on [#193](https://github.com/Bee-Mar/mmpm/issues/193#issuecomment-2449242621) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
-5. ❗ Opened issue [#193](https://github.com/Bee-Mar/mmpm/issues/193) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
+1. 🎉 Merged PR [#17](https://github.com/b-reich/ha-matterserver-docker/pull/17) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
+2. 🗣 Commented on [#2213](https://github.com/ansible/ansible-documentation/pull/2213#issuecomment-2487727511) in [ansible/ansible-documentation](https://github.com/ansible/ansible-documentation)
+3. 💪 Opened PR [#2213](https://github.com/ansible/ansible-documentation/pull/2213) in [ansible/ansible-documentation](https://github.com/ansible/ansible-documentation)
+4. 💪 Opened PR [#204](https://github.com/Bee-Mar/mmpm/pull/204) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
+5. 🗣 Commented on [#193](https://github.com/Bee-Mar/mmpm/issues/193#issuecomment-2449242621) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

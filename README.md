@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#195624](https://github.com/Homebrew/homebrew-cask/pull/195624#issuecomment-2550594358) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-2. 💪 Opened PR [#195624](https://github.com/Homebrew/homebrew-cask/pull/195624) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-3. 🗣 Commented on [#1](https://github.com/b-reich/homebrew-cask/pull/1#issuecomment-2550568832) in [b-reich/homebrew-cask](https://github.com/b-reich/homebrew-cask)
-4. 💪 Opened PR [#1](https://github.com/b-reich/homebrew-cask/pull/1) in [b-reich/homebrew-cask](https://github.com/b-reich/homebrew-cask)
-5. 🎉 Merged PR [#17](https://github.com/b-reich/ha-matterserver-docker/pull/17) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
+1. 💪 Opened PR [#7137](https://github.com/FreshRSS/FreshRSS/pull/7137) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+2. 🗣 Commented on [#195624](https://github.com/Homebrew/homebrew-cask/pull/195624#issuecomment-2550594358) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+3. 💪 Opened PR [#195624](https://github.com/Homebrew/homebrew-cask/pull/195624) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+4. 🗣 Commented on [#1](https://github.com/b-reich/homebrew-cask/pull/1#issuecomment-2550568832) in [b-reich/homebrew-cask](https://github.com/b-reich/homebrew-cask)
+5. 💪 Opened PR [#1](https://github.com/b-reich/homebrew-cask/pull/1) in [b-reich/homebrew-cask](https://github.com/b-reich/homebrew-cask)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

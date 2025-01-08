@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#134206](https://github.com/home-assistant/core/pull/134206#issuecomment-2571730487) in [home-assistant/core](https://github.com/home-assistant/core)
-2. ❗ Opened issue [#23583](https://github.com/home-assistant/frontend/issues/23583) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-3. 💪 Opened PR [#7137](https://github.com/FreshRSS/FreshRSS/pull/7137) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
-4. 🗣 Commented on [#195624](https://github.com/Homebrew/homebrew-cask/pull/195624#issuecomment-2550594358) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-5. 💪 Opened PR [#195624](https://github.com/Homebrew/homebrew-cask/pull/195624) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+1. 🗣 Commented on [#2558](https://github.com/ghostfolio/ghostfolio/issues/2558#issuecomment-2577007906) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+2. 🗣 Commented on [#134206](https://github.com/home-assistant/core/pull/134206#issuecomment-2571730487) in [home-assistant/core](https://github.com/home-assistant/core)
+3. ❗ Opened issue [#23583](https://github.com/home-assistant/frontend/issues/23583) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+4. 💪 Opened PR [#7137](https://github.com/FreshRSS/FreshRSS/pull/7137) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+5. 🗣 Commented on [#195624](https://github.com/Homebrew/homebrew-cask/pull/195624#issuecomment-2550594358) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

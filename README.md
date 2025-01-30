@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23583](https://github.com/home-assistant/frontend/issues/23583#issuecomment-2597577548) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-2. 🗣 Commented on [#2558](https://github.com/ghostfolio/ghostfolio/issues/2558#issuecomment-2577007906) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-3. 🗣 Commented on [#134206](https://github.com/home-assistant/core/pull/134206#issuecomment-2571730487) in [home-assistant/core](https://github.com/home-assistant/core)
-4. ❗ Opened issue [#23583](https://github.com/home-assistant/frontend/issues/23583) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-5. 💪 Opened PR [#7137](https://github.com/FreshRSS/FreshRSS/pull/7137) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+1. 🗣 Commented on [#37](https://github.com/jetkvm/kvm/issues/37#issuecomment-2621798684) in [jetkvm/kvm](https://github.com/jetkvm/kvm)
+2. 🗣 Commented on [#23583](https://github.com/home-assistant/frontend/issues/23583#issuecomment-2597577548) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+3. 🗣 Commented on [#2558](https://github.com/ghostfolio/ghostfolio/issues/2558#issuecomment-2577007906) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+4. 🗣 Commented on [#134206](https://github.com/home-assistant/core/pull/134206#issuecomment-2571730487) in [home-assistant/core](https://github.com/home-assistant/core)
+5. ❗ Opened issue [#23583](https://github.com/home-assistant/frontend/issues/23583) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

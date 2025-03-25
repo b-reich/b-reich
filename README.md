@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/b-reich/MMM-PirateSkyForecast/pull/1) in [b-reich/MMM-PirateSkyForecast](https://github.com/b-reich/MMM-PirateSkyForecast)
-2. 🗣 Commented on [#1](https://github.com/b-reich/MMM-PirateSkyForecast/pull/1#issuecomment-2747054040) in [b-reich/MMM-PirateSkyForecast](https://github.com/b-reich/MMM-PirateSkyForecast)
-3. 🗣 Commented on [#1](https://github.com/dankerthrone/MMM-PirateSkyForecast/pull/1#issuecomment-2705696165) in [dankerthrone/MMM-PirateSkyForecast](https://github.com/dankerthrone/MMM-PirateSkyForecast)
-4. 🗣 Commented on [#1](https://github.com/dankerthrone/MMM-PirateSkyForecast/pull/1#issuecomment-2704299222) in [dankerthrone/MMM-PirateSkyForecast](https://github.com/dankerthrone/MMM-PirateSkyForecast)
-5. 🗣 Commented on [#27](https://github.com/Jarnsen/ha-xsense-component_test/issues/27#issuecomment-2703081693) in [Jarnsen/ha-xsense-component_test](https://github.com/Jarnsen/ha-xsense-component_test)
+1. ❗ Opened issue [#81](https://github.com/pelican-dev/wings/issues/81) in [pelican-dev/wings](https://github.com/pelican-dev/wings)
+2. 🎉 Merged PR [#1](https://github.com/b-reich/MMM-PirateSkyForecast/pull/1) in [b-reich/MMM-PirateSkyForecast](https://github.com/b-reich/MMM-PirateSkyForecast)
+3. 🗣 Commented on [#1](https://github.com/b-reich/MMM-PirateSkyForecast/pull/1#issuecomment-2747054040) in [b-reich/MMM-PirateSkyForecast](https://github.com/b-reich/MMM-PirateSkyForecast)
+4. 🗣 Commented on [#1](https://github.com/dankerthrone/MMM-PirateSkyForecast/pull/1#issuecomment-2705696165) in [dankerthrone/MMM-PirateSkyForecast](https://github.com/dankerthrone/MMM-PirateSkyForecast)
+5. 🗣 Commented on [#1](https://github.com/dankerthrone/MMM-PirateSkyForecast/pull/1#issuecomment-2704299222) in [dankerthrone/MMM-PirateSkyForecast](https://github.com/dankerthrone/MMM-PirateSkyForecast)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

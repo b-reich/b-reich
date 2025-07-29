@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/b-reich/MMM-PirateSkyForecast/pull/3) in [b-reich/MMM-PirateSkyForecast](https://github.com/b-reich/MMM-PirateSkyForecast)
-2. 🔒 Closed issue [#1305](https://github.com/bambulab/BambuStudio/issues/1305) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
-3. 🔒 Closed issue [#98](https://github.com/solokeys/solo2-cli/issues/98) in [solokeys/solo2-cli](https://github.com/solokeys/solo2-cli)
-4. 🗣 Commented on [#1](https://github.com/dankerthrone/MMM-PirateSkyForecast/pull/1#issuecomment-2705696165) in [dankerthrone/MMM-PirateSkyForecast](https://github.com/dankerthrone/MMM-PirateSkyForecast)
-5. 🗣 Commented on [#1](https://github.com/dankerthrone/MMM-PirateSkyForecast/pull/1#issuecomment-2704299222) in [dankerthrone/MMM-PirateSkyForecast](https://github.com/dankerthrone/MMM-PirateSkyForecast)
+1. 🚀 Published release [v0.1.2](https://github.com/b-reich/teetime/releases/tag/v0.1.2) in [b-reich/teetime](https://github.com/b-reich/teetime)
+2. 🚀 Published release [v0.1.2](https://github.com/b-reich/teetime/releases/tag/v0.1.2) in [b-reich/teetime](https://github.com/b-reich/teetime)
+3. 🚀 Published release [v0.1.2](https://github.com/b-reich/teetime/releases/tag/v0.1.2) in [b-reich/teetime](https://github.com/b-reich/teetime)
+4. 🎉 Merged PR [#3](https://github.com/b-reich/teetime/pull/3) in [b-reich/teetime](https://github.com/b-reich/teetime)
+5. 🎉 Merged PR [#4](https://github.com/b-reich/teetime/pull/4) in [b-reich/teetime](https://github.com/b-reich/teetime)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

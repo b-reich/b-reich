@@ -26,8 +26,8 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 1. 🚀 Published release [v0.1.2](https://github.com/b-reich/teetime/releases/tag/v0.1.2) in [b-reich/teetime](https://github.com/b-reich/teetime)
 2. 🚀 Published release [v0.1.2](https://github.com/b-reich/teetime/releases/tag/v0.1.2) in [b-reich/teetime](https://github.com/b-reich/teetime)
 3. 🚀 Published release [v0.1.2](https://github.com/b-reich/teetime/releases/tag/v0.1.2) in [b-reich/teetime](https://github.com/b-reich/teetime)
-4. 🎉 Merged PR [#3](https://github.com/b-reich/teetime/pull/3) in [b-reich/teetime](https://github.com/b-reich/teetime)
-5. 🎉 Merged PR [#4](https://github.com/b-reich/teetime/pull/4) in [b-reich/teetime](https://github.com/b-reich/teetime)
+4. 🚀 Published release [v0.1.2](https://github.com/b-reich/teetime/releases/tag/v0.1.2) in [b-reich/teetime](https://github.com/b-reich/teetime)
+5. 🚀 Published release [v0.1.2](https://github.com/b-reich/teetime/releases/tag/v0.1.2) in [b-reich/teetime](https://github.com/b-reich/teetime)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

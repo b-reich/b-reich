@@ -25,9 +25,9 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#243](https://github.com/Bee-Mar/mmpm/issues/243) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
 2. 🚀 Published release [v0.1.2](https://github.com/b-reich/teetime/releases/tag/v0.1.2) in [b-reich/teetime](https://github.com/b-reich/teetime)
-3. 🚀 Published release [v0.1.2](https://github.com/b-reich/teetime/releases/tag/v0.1.2) in [b-reich/teetime](https://github.com/b-reich/teetime)
-4. 🚀 Published release [v0.1.2](https://github.com/b-reich/teetime/releases/tag/v0.1.2) in [b-reich/teetime](https://github.com/b-reich/teetime)
-5. 🚀 Published release [v0.1.2](https://github.com/b-reich/teetime/releases/tag/v0.1.2) in [b-reich/teetime](https://github.com/b-reich/teetime)
+3. 💪 Opened PR [#84](undefined) in [adamoutler/HassOSArgonOneAddon](https://github.com/adamoutler/HassOSArgonOneAddon)
+4. 🔒 Closed issue [#5](https://github.com/b-reich/HassOSArgonOneAddon/issues/5) in [b-reich/HassOSArgonOneAddon](https://github.com/b-reich/HassOSArgonOneAddon)
+5. 🔒 Closed issue [#4](https://github.com/b-reich/HassOSArgonOneAddon/issues/4) in [b-reich/HassOSArgonOneAddon](https://github.com/b-reich/HassOSArgonOneAddon)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

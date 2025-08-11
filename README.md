@@ -23,10 +23,10 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#243](https://github.com/Bee-Mar/mmpm/issues/243#issuecomment-3173814048) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
-2. 🔒 Closed issue [#243](https://github.com/Bee-Mar/mmpm/issues/243) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
-3. ❗ Opened issue [#243](https://github.com/Bee-Mar/mmpm/issues/243) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
-4. 🚀 Published release [v0.1.2](https://github.com/b-reich/teetime/releases/tag/v0.1.2) in [b-reich/teetime](https://github.com/b-reich/teetime)
+1. ❗ Opened issue [#235](https://github.com/ufozone/ha-unifi-voucher/issues/235) in [ufozone/ha-unifi-voucher](https://github.com/ufozone/ha-unifi-voucher)
+2. 🗣 Commented on [#243](https://github.com/Bee-Mar/mmpm/issues/243#issuecomment-3173814048) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
+3. 🔒 Closed issue [#243](https://github.com/Bee-Mar/mmpm/issues/243) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
+4. ❗ Opened issue [#243](https://github.com/Bee-Mar/mmpm/issues/243) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
 5. 🚀 Published release [v0.1.2](https://github.com/b-reich/teetime/releases/tag/v0.1.2) in [b-reich/teetime](https://github.com/b-reich/teetime)
 <!--END_SECTION:activity-->
 

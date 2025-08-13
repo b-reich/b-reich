@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#235](https://github.com/ufozone/ha-unifi-voucher/issues/235#issuecomment-3180445639) in [ufozone/ha-unifi-voucher](https://github.com/ufozone/ha-unifi-voucher)
-2. 🔒 Closed issue [#235](https://github.com/ufozone/ha-unifi-voucher/issues/235) in [ufozone/ha-unifi-voucher](https://github.com/ufozone/ha-unifi-voucher)
-3. ❗ Opened issue [#235](https://github.com/ufozone/ha-unifi-voucher/issues/235) in [ufozone/ha-unifi-voucher](https://github.com/ufozone/ha-unifi-voucher)
-4. 🗣 Commented on [#243](https://github.com/Bee-Mar/mmpm/issues/243#issuecomment-3173814048) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
-5. 🔒 Closed issue [#243](https://github.com/Bee-Mar/mmpm/issues/243) in [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm)
+1. 🗣 Commented on [#14620](https://github.com/jellyfin/jellyfin/issues/14620#issuecomment-3182711394) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+2. 🗣 Commented on [#14620](https://github.com/jellyfin/jellyfin/issues/14620#issuecomment-3182677762) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+3. 🗣 Commented on [#235](https://github.com/ufozone/ha-unifi-voucher/issues/235#issuecomment-3180445639) in [ufozone/ha-unifi-voucher](https://github.com/ufozone/ha-unifi-voucher)
+4. 🔒 Closed issue [#235](https://github.com/ufozone/ha-unifi-voucher/issues/235) in [ufozone/ha-unifi-voucher](https://github.com/ufozone/ha-unifi-voucher)
+5. ❗ Opened issue [#235](https://github.com/ufozone/ha-unifi-voucher/issues/235) in [ufozone/ha-unifi-voucher](https://github.com/ufozone/ha-unifi-voucher)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

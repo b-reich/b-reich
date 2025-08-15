@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/b-reich/ha-matterserver-docker/pull/21) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
-2. 🎉 Merged PR [#20](https://github.com/b-reich/ha-matterserver-docker/pull/20) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
-3. 🗣 Commented on [#14620](https://github.com/jellyfin/jellyfin/issues/14620#issuecomment-3182711394) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-4. 🗣 Commented on [#14620](https://github.com/jellyfin/jellyfin/issues/14620#issuecomment-3182677762) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-5. 🗣 Commented on [#235](https://github.com/ufozone/ha-unifi-voucher/issues/235#issuecomment-3180445639) in [ufozone/ha-unifi-voucher](https://github.com/ufozone/ha-unifi-voucher)
+1. 🎉 Merged PR [#13](https://github.com/b-reich/latex-docker/pull/13) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
+2. 🎉 Merged PR [#21](https://github.com/b-reich/ha-matterserver-docker/pull/21) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
+3. 🎉 Merged PR [#20](https://github.com/b-reich/ha-matterserver-docker/pull/20) in [b-reich/ha-matterserver-docker](https://github.com/b-reich/ha-matterserver-docker)
+4. 🗣 Commented on [#14620](https://github.com/jellyfin/jellyfin/issues/14620#issuecomment-3182711394) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+5. 🗣 Commented on [#14620](https://github.com/jellyfin/jellyfin/issues/14620#issuecomment-3182677762) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

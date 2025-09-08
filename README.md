@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1.  Assigned issue [#4](https://github.com/b-reich/MMM-PirateSkyForecast/issues/4) in [b-reich/MMM-PirateSkyForecast](https://github.com/b-reich/MMM-PirateSkyForecast)
-2. 🗣 Commented on [#4](https://github.com/b-reich/MMM-PirateSkyForecast/issues/4#issuecomment-3263731484) in [b-reich/MMM-PirateSkyForecast](https://github.com/b-reich/MMM-PirateSkyForecast)
-3. 🗣 Commented on [#449](https://github.com/Seeed-Studio/wiki-documents/issues/449#issuecomment-3258447339) in [Seeed-Studio/wiki-documents](https://github.com/Seeed-Studio/wiki-documents)
-4. 💪 Opened PR [#234461](undefined) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-5. 💪 Opened PR [#1](undefined) in [b-reich/homebrew-core](https://github.com/b-reich/homebrew-core)
+1. 🗣 Commented on [#4](https://github.com/b-reich/MMM-PirateSkyForecast/issues/4#issuecomment-3263731484) in [b-reich/MMM-PirateSkyForecast](https://github.com/b-reich/MMM-PirateSkyForecast)
+2. 💪 Opened PR [#234461](https://github.com/Homebrew/homebrew-core/pull/234461) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. 💪 Opened PR [#1](https://github.com/b-reich/homebrew-core/pull/1) in [b-reich/homebrew-core](https://github.com/b-reich/homebrew-core)
+4. ❗ Opened issue [#1176](https://github.com/hetznercloud/terraform-provider-hcloud/issues/1176) in [hetznercloud/terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud)
+5. 🎉 Merged PR [#13](https://github.com/b-reich/latex-docker/pull/13) in [b-reich/latex-docker](https://github.com/b-reich/latex-docker)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

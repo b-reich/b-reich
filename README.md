@@ -23,10 +23,10 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/b-reich/MMM-PirateSkyForecast/issues/4#issuecomment-3263731484) in [b-reich/MMM-PirateSkyForecast](https://github.com/b-reich/MMM-PirateSkyForecast)
-2. 💪 Opened PR [#234461](https://github.com/Homebrew/homebrew-core/pull/234461) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-3. 💪 Opened PR [#1](https://github.com/b-reich/homebrew-core/pull/1) in [b-reich/homebrew-core](https://github.com/b-reich/homebrew-core)
-4. 💪 Opened PR [#234461](undefined) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. ❗ Opened issue [#799](https://github.com/davidrapan/ha-solarman/issues/799) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
+2. 🗣 Commented on [#4](https://github.com/b-reich/MMM-PirateSkyForecast/issues/4#issuecomment-3263731484) in [b-reich/MMM-PirateSkyForecast](https://github.com/b-reich/MMM-PirateSkyForecast)
+3. 💪 Opened PR [#234461](https://github.com/Homebrew/homebrew-core/pull/234461) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+4. 💪 Opened PR [#1](https://github.com/b-reich/homebrew-core/pull/1) in [b-reich/homebrew-core](https://github.com/b-reich/homebrew-core)
 5. 💪 Opened PR [#1](undefined) in [b-reich/homebrew-core](https://github.com/b-reich/homebrew-core)
 <!--END_SECTION:activity-->
 

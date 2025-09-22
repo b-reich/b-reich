@@ -23,11 +23,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#799](https://github.com/davidrapan/ha-solarman/issues/799#issuecomment-3311500409) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
-2. 🎉 Merged PR [#4](https://github.com/b-reich/b-reich/pull/4) in [b-reich/b-reich](https://github.com/b-reich/b-reich)
-3. ❗ Opened issue [#799](https://github.com/davidrapan/ha-solarman/issues/799) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
-4. 🗣 Commented on [#4](https://github.com/b-reich/MMM-PirateSkyForecast/issues/4#issuecomment-3263731484) in [b-reich/MMM-PirateSkyForecast](https://github.com/b-reich/MMM-PirateSkyForecast)
-5. 💪 Opened PR [#234461](https://github.com/Homebrew/homebrew-core/pull/234461) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. 🔒 Closed issue [#799](https://github.com/davidrapan/ha-solarman/issues/799) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
+2. 🗣 Commented on [#799](https://github.com/davidrapan/ha-solarman/issues/799#issuecomment-3311500409) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
+3. 🎉 Merged PR [#4](https://github.com/b-reich/b-reich/pull/4) in [b-reich/b-reich](https://github.com/b-reich/b-reich)
+4. ❗ Opened issue [#799](https://github.com/davidrapan/ha-solarman/issues/799) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
+5. 🗣 Commented on [#4](https://github.com/b-reich/MMM-PirateSkyForecast/issues/4#issuecomment-3263731484) in [b-reich/MMM-PirateSkyForecast](https://github.com/b-reich/MMM-PirateSkyForecast)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

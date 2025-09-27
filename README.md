@@ -7,10 +7,9 @@ Nowerdays my focus is more in configuration and infrastructure as code. My heart
 
 
 Tools: Ansible, Terraform \
-Programming Languages: 🐍Python, Java \
+Programming Languages: 🐍Python, ♨️Java \
 Learning: Golang, 🦀Rust \
-🐧Linux \
-☸K8s \
+🐧Linux and ☸️K8s \
 Azure, AWS, HetznerCloud and GPC \
 CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 

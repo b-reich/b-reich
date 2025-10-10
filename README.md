@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#799](https://github.com/davidrapan/ha-solarman/issues/799) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
-2. 🗣 Commented on [#799](https://github.com/davidrapan/ha-solarman/issues/799#issuecomment-3311500409) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
-3. 🎉 Merged PR [#4](https://github.com/b-reich/b-reich/pull/4) in [b-reich/b-reich](https://github.com/b-reich/b-reich)
-4. ❗ Opened issue [#799](https://github.com/davidrapan/ha-solarman/issues/799) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
-5. 🗣 Commented on [#4](https://github.com/b-reich/MMM-PirateSkyForecast/issues/4#issuecomment-3263731484) in [b-reich/MMM-PirateSkyForecast](https://github.com/b-reich/MMM-PirateSkyForecast)
+1. 🗣 Commented on [#753](https://github.com/davidrapan/ha-solarman/issues/753#issuecomment-3387229875) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
+2. 🔒 Closed issue [#799](https://github.com/davidrapan/ha-solarman/issues/799) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
+3. 🗣 Commented on [#799](https://github.com/davidrapan/ha-solarman/issues/799#issuecomment-3311500409) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
+4. 🎉 Merged PR [#4](https://github.com/b-reich/b-reich/pull/4) in [b-reich/b-reich](https://github.com/b-reich/b-reich)
+5. ❗ Opened issue [#799](https://github.com/davidrapan/ha-solarman/issues/799) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

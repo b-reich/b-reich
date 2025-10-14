@@ -23,10 +23,10 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#753](https://github.com/davidrapan/ha-solarman/issues/753#issuecomment-3387229875) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
-2. 🔒 Closed issue [#799](https://github.com/davidrapan/ha-solarman/issues/799) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
-3. 🗣 Commented on [#799](https://github.com/davidrapan/ha-solarman/issues/799#issuecomment-3311500409) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
-4. 🎉 Merged PR [#4](https://github.com/b-reich/b-reich/pull/4) in [b-reich/b-reich](https://github.com/b-reich/b-reich)
-5. ❗ Opened issue [#799](https://github.com/davidrapan/ha-solarman/issues/799) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
+2. 🔒 Closed issue [#1176](https://github.com/hetznercloud/terraform-provider-hcloud/issues/1176) in [hetznercloud/terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud)
+3. ❗ Opened issue [#16284](https://github.com/ScoopInstaller/Extras/issues/16284) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+4. 🔒 Closed issue [#799](https://github.com/davidrapan/ha-solarman/issues/799) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
+5. 🗣 Commented on [#799](https://github.com/davidrapan/ha-solarman/issues/799#issuecomment-3311500409) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

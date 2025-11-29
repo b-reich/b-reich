@@ -22,10 +22,10 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51615](https://github.com/moby/moby/pull/51615#issuecomment-3588847764) in [moby/moby](https://github.com/moby/moby)
-2. 🗣 Commented on [#189](https://github.com/seerr-team/seerr/issues/189#issuecomment-3558682829) in [seerr-team/seerr](https://github.com/seerr-team/seerr)
-3. 🗣 Commented on [#134](https://github.com/dickwolff/Export-To-Ghostfolio/issues/134#issuecomment-3501222553) in [dickwolff/Export-To-Ghostfolio](https://github.com/dickwolff/Export-To-Ghostfolio)
-4. 🔒 Closed issue [#799](https://github.com/davidrapan/ha-solarman/issues/799) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
+1. ❗ Opened issue [#238690](https://github.com/Homebrew/homebrew-cask/issues/238690) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+2. 🗣 Commented on [#51615](https://github.com/moby/moby/pull/51615#issuecomment-3588847764) in [moby/moby](https://github.com/moby/moby)
+3. 🗣 Commented on [#189](https://github.com/seerr-team/seerr/issues/189#issuecomment-3558682829) in [seerr-team/seerr](https://github.com/seerr-team/seerr)
+4. 🗣 Commented on [#134](https://github.com/dickwolff/Export-To-Ghostfolio/issues/134#issuecomment-3501222553) in [dickwolff/Export-To-Ghostfolio](https://github.com/dickwolff/Export-To-Ghostfolio)
 5. 🗣 Commented on [#799](https://github.com/davidrapan/ha-solarman/issues/799#issuecomment-3311500409) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
 <!--END_SECTION:activity-->
 

@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1.  Labeled issue [#860](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/860) in [robinostlund/homeassistant-volkswagencarnet](https://github.com/robinostlund/homeassistant-volkswagencarnet)
-2. ❗ Opened issue [#860](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/860) in [robinostlund/homeassistant-volkswagencarnet](https://github.com/robinostlund/homeassistant-volkswagencarnet)
-3. ❗ Opened issue [#238690](https://github.com/Homebrew/homebrew-cask/issues/238690) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-4. 🗣 Commented on [#51615](https://github.com/moby/moby/pull/51615#issuecomment-3588847764) in [moby/moby](https://github.com/moby/moby)
-5. 🗣 Commented on [#189](https://github.com/seerr-team/seerr/issues/189#issuecomment-3558682829) in [seerr-team/seerr](https://github.com/seerr-team/seerr)
+1. 🗣 Commented on [#776](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/776#issuecomment-3645510072) in [robinostlund/homeassistant-volkswagencarnet](https://github.com/robinostlund/homeassistant-volkswagencarnet)
+2.  Labeled issue [#860](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/860) in [robinostlund/homeassistant-volkswagencarnet](https://github.com/robinostlund/homeassistant-volkswagencarnet)
+3. ❗ Opened issue [#860](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/860) in [robinostlund/homeassistant-volkswagencarnet](https://github.com/robinostlund/homeassistant-volkswagencarnet)
+4. ❗ Opened issue [#238690](https://github.com/Homebrew/homebrew-cask/issues/238690) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+5. 🗣 Commented on [#51615](https://github.com/moby/moby/pull/51615#issuecomment-3588847764) in [moby/moby](https://github.com/moby/moby)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

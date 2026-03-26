@@ -22,9 +22,9 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#17479](https://github.com/ScoopInstaller/Extras/issues/17479) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-2. 🗣 Commented on [#134](https://github.com/dickwolff/Export-To-Ghostfolio/issues/134#issuecomment-3905044262) in [dickwolff/Export-To-Ghostfolio](https://github.com/dickwolff/Export-To-Ghostfolio)
-3. 🗣 Commented on [#134](https://github.com/dickwolff/Export-To-Ghostfolio/issues/134#issuecomment-3870809298) in [dickwolff/Export-To-Ghostfolio](https://github.com/dickwolff/Export-To-Ghostfolio)
+1. 🗣 Commented on [#17479](https://github.com/ScoopInstaller/Extras/issues/17479#issuecomment-4135822808) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+2. 🔒 Closed issue [#17479](https://github.com/ScoopInstaller/Extras/issues/17479) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+3. ❗ Opened issue [#17479](https://github.com/ScoopInstaller/Extras/issues/17479) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
 4. 🗣 Commented on [#134](https://github.com/dickwolff/Export-To-Ghostfolio/issues/134#issuecomment-3870756783) in [dickwolff/Export-To-Ghostfolio](https://github.com/dickwolff/Export-To-Ghostfolio)
 5. 🗣 Commented on [#134](https://github.com/dickwolff/Export-To-Ghostfolio/issues/134#issuecomment-3870653891) in [dickwolff/Export-To-Ghostfolio](https://github.com/dickwolff/Export-To-Ghostfolio)
 <!--END_SECTION:activity-->

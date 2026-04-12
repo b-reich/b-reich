@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/PhantomPhoton/S3-Compatible/issues/22#issuecomment-4229729937) in [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible)
-2. 🗣 Commented on [#22](https://github.com/PhantomPhoton/S3-Compatible/issues/22#issuecomment-4221567935) in [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible)
-3. 🗣 Commented on [#22](https://github.com/PhantomPhoton/S3-Compatible/issues/22#issuecomment-4193028475) in [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible)
-4. 🗣 Commented on [#17526](https://github.com/ScoopInstaller/Extras/issues/17526#issuecomment-4183738245) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-5. ❗ Opened issue [#17526](https://github.com/ScoopInstaller/Extras/issues/17526) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+1. 🗣 Commented on [#22](https://github.com/PhantomPhoton/S3-Compatible/issues/22#issuecomment-4232544033) in [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible)
+2. 🗣 Commented on [#22](https://github.com/PhantomPhoton/S3-Compatible/issues/22#issuecomment-4229729937) in [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible)
+3. 🗣 Commented on [#22](https://github.com/PhantomPhoton/S3-Compatible/issues/22#issuecomment-4221567935) in [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible)
+4. 🗣 Commented on [#22](https://github.com/PhantomPhoton/S3-Compatible/issues/22#issuecomment-4193028475) in [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible)
+5. 🗣 Commented on [#17526](https://github.com/ScoopInstaller/Extras/issues/17526#issuecomment-4183738245) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

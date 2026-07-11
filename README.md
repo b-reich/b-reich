@@ -22,9 +22,9 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#407](https://github.com/netbirdio/addon-netbird/pull/407) in [netbirdio/addon-netbird](https://github.com/netbirdio/addon-netbird)
-2. 🗣 Commented on [#242](https://github.com/gpxstudio/gpx.studio/pull/242#issuecomment-4688153161) in [gpxstudio/gpx.studio](https://github.com/gpxstudio/gpx.studio)
-3. 🗣 Commented on [#26](https://github.com/PhantomPhoton/S3-Compatible/issues/26#issuecomment-4678446755) in [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible)
+1. 🎉 Merged PR [#407](https://github.com/netbirdio/addon-netbird/pull/407) in [netbirdio/addon-netbird](https://github.com/netbirdio/addon-netbird)
+2. 💪 Opened PR [#407](https://github.com/netbirdio/addon-netbird/pull/407) in [netbirdio/addon-netbird](https://github.com/netbirdio/addon-netbird)
+3. 🗣 Commented on [#242](https://github.com/gpxstudio/gpx.studio/pull/242#issuecomment-4688153161) in [gpxstudio/gpx.studio](https://github.com/gpxstudio/gpx.studio)
 4. 🗣 Commented on [#22](https://github.com/PhantomPhoton/S3-Compatible/issues/22#issuecomment-4232544033) in [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible)
 5. 🗣 Commented on [#22](https://github.com/PhantomPhoton/S3-Compatible/issues/22#issuecomment-4229729937) in [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible)
 <!--END_SECTION:activity-->

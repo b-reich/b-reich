@@ -22,10 +22,10 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6048](https://github.com/netbirdio/netbird/pull/6048#issuecomment-5306707891) in [netbirdio/netbird](https://github.com/netbirdio/netbird)
-2. 🗣 Commented on [#8](https://github.com/netbirdio/homebrew-tap/issues/8#issuecomment-5306567307) in [netbirdio/homebrew-tap](https://github.com/netbirdio/homebrew-tap)
-3. ❗ Opened issue [#8](https://github.com/netbirdio/homebrew-tap/issues/8) in [netbirdio/homebrew-tap](https://github.com/netbirdio/homebrew-tap)
-4. 🗣 Commented on [#22](https://github.com/PhantomPhoton/S3-Compatible/issues/22#issuecomment-4232544033) in [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible)
+1. ❗ Opened issue [#10](https://github.com/netbirdio/homebrew-tap/issues/10) in [netbirdio/homebrew-tap](https://github.com/netbirdio/homebrew-tap)
+2. 🗣 Commented on [#6048](https://github.com/netbirdio/netbird/pull/6048#issuecomment-5306707891) in [netbirdio/netbird](https://github.com/netbirdio/netbird)
+3. 🗣 Commented on [#8](https://github.com/netbirdio/homebrew-tap/issues/8#issuecomment-5306567307) in [netbirdio/homebrew-tap](https://github.com/netbirdio/homebrew-tap)
+4. ❗ Opened issue [#8](https://github.com/netbirdio/homebrew-tap/issues/8) in [netbirdio/homebrew-tap](https://github.com/netbirdio/homebrew-tap)
 5. 🗣 Commented on [#22](https://github.com/PhantomPhoton/S3-Compatible/issues/22#issuecomment-4229729937) in [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible)
 <!--END_SECTION:activity-->
 

@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7477](https://github.com/netbirdio/netbird/pull/7477#issuecomment-5660506323) in [netbirdio/netbird](https://github.com/netbirdio/netbird)
-2. 🗣 Commented on [#13](https://github.com/netbirdio/homebrew-tap/pull/13#issuecomment-5630118070) in [netbirdio/homebrew-tap](https://github.com/netbirdio/homebrew-tap)
-3. ❗ Opened issue [#10](https://github.com/netbirdio/homebrew-tap/issues/10) in [netbirdio/homebrew-tap](https://github.com/netbirdio/homebrew-tap)
-4. 🗣 Commented on [#6048](https://github.com/netbirdio/netbird/pull/6048#issuecomment-5306707891) in [netbirdio/netbird](https://github.com/netbirdio/netbird)
-5. 🗣 Commented on [#8](https://github.com/netbirdio/homebrew-tap/issues/8#issuecomment-5306567307) in [netbirdio/homebrew-tap](https://github.com/netbirdio/homebrew-tap)
+1. 🗣 Commented on [#16](https://github.com/netbirdio/homebrew-tap/pull/16#issuecomment-5756455990) in [netbirdio/homebrew-tap](https://github.com/netbirdio/homebrew-tap)
+2. 🗣 Commented on [#10](https://github.com/netbirdio/homebrew-tap/issues/10#issuecomment-5756430760) in [netbirdio/homebrew-tap](https://github.com/netbirdio/homebrew-tap)
+3. 🗣 Commented on [#7477](https://github.com/netbirdio/netbird/pull/7477#issuecomment-5660506323) in [netbirdio/netbird](https://github.com/netbirdio/netbird)
+4. 🗣 Commented on [#13](https://github.com/netbirdio/homebrew-tap/pull/13#issuecomment-5630118070) in [netbirdio/homebrew-tap](https://github.com/netbirdio/homebrew-tap)
+5. ❗ Opened issue [#10](https://github.com/netbirdio/homebrew-tap/issues/10) in [netbirdio/homebrew-tap](https://github.com/netbirdio/homebrew-tap)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills

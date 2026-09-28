@@ -22,11 +22,11 @@ CI/CD: AzureDevOps, gitlab-ci, jenkins, github-actions, travis-ci
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#18796](https://github.com/ScoopInstaller/Extras/issues/18796) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-2. ❗ Opened issue [#18796](https://github.com/ScoopInstaller/Extras/issues/18796) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-3. 🗣 Commented on [#16](https://github.com/netbirdio/homebrew-tap/pull/16#issuecomment-5756455990) in [netbirdio/homebrew-tap](https://github.com/netbirdio/homebrew-tap)
-4. 🗣 Commented on [#10](https://github.com/netbirdio/homebrew-tap/issues/10#issuecomment-5756430760) in [netbirdio/homebrew-tap](https://github.com/netbirdio/homebrew-tap)
-5. 🗣 Commented on [#7477](https://github.com/netbirdio/netbird/pull/7477#issuecomment-5660506323) in [netbirdio/netbird](https://github.com/netbirdio/netbird)
+1. 🗣 Commented on [#7477](https://github.com/netbirdio/netbird/pull/7477#issuecomment-5870441020) in [netbirdio/netbird](https://github.com/netbirdio/netbird)
+2. ℹ️ Labeled issue [#18796](https://github.com/ScoopInstaller/Extras/issues/18796) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+3. ❗ Opened issue [#18796](https://github.com/ScoopInstaller/Extras/issues/18796) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+4. 🗣 Commented on [#16](https://github.com/netbirdio/homebrew-tap/pull/16#issuecomment-5756455990) in [netbirdio/homebrew-tap](https://github.com/netbirdio/homebrew-tap)
+5. 🗣 Commented on [#10](https://github.com/netbirdio/homebrew-tap/issues/10#issuecomment-5756430760) in [netbirdio/homebrew-tap](https://github.com/netbirdio/homebrew-tap)
 <!--END_SECTION:activity-->
 
 ### ⛏ Skills
